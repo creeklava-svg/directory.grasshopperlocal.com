@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Claim Your Business Listing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<nav class="nav">
+  <a href="/" class="nav-brand">Grasshopper <span>Directory</span></a>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="https://grasshopperlocal.com">Grasshopper Suite →</a>
+  </div>
+</nav>
+
+<section style="max-width:600px;margin:0 auto;padding:4rem 1.5rem;">
+  <h1 style="font-size:2rem;font-weight:700;margin-bottom:0.5rem;">Claim Your Listing</h1>
+  <p style="color:var(--gray-500);margin-bottom:2rem;">Is this your business? Claim your free listing to update your information, respond to reviews, and get found by more customers. Premium upgrades start at $29/month.</p>
+
+  <div style="background:var(--gray-50);padding:1.5rem;border-radius:10px;border:1px solid var(--gray-200);margin-bottom:2rem;">
+    <h3 style="font-size:1rem;font-weight:600;margin-bottom:0.5rem;">What You Get</h3>
+    <ul style="list-style:none;padding:0;">
+      <li style="padding:0.375rem 0;padding-left:1.5rem;position:relative;">✓ Update your business name, address, and phone</li>
+      <li style="padding:0.375rem 0;padding-left:1.5rem;position:relative;">✓ Add photos of your work</li>
+      <li style="padding:0.375rem 0;padding-left:1.5rem;position:relative;">✓ Respond to customer reviews</li>
+      <li style="padding:0.375rem 0;padding-left:1.5rem;position:relative;">✓ Premium placement available — be the first listing customers see</li>
+    </ul>
+  </div>
+
+  <form action="https://directory.grasshopperlocal.com/api/claim" method="POST" style="display:flex;flex-direction:column;gap:1rem;">
+    <input type="hidden" name="business" id="business" value="">
+    <input type="hidden" name="city" id="city" value="">
+    <input type="hidden" name="category" id="category" value="">
+
+    <div>
+      <label style="font-weight:600;font-size:0.875rem;display:block;margin-bottom:0.375rem;color:var(--gray-700);">Business Name</label>
+      <input type="text" name="business_name" required placeholder="Your business name" style="width:100%;padding:0.75rem 1rem;border-radius:8px;border:1px solid var(--gray-300);font-size:1rem;font-family:var(--font);">
+    </div>
+
+    <div>
+      <label style="font-weight:600;font-size:0.875rem;display:block;margin-bottom:0.375rem;color:var(--gray-700);">Your Name</label>
+      <input type="text" name="owner_name" required placeholder="Your full name" style="width:100%;padding:0.75rem 1rem;border-radius:8px;border:1px solid var(--gray-300);font-size:1rem;font-family:var(--font);">
+    </div>
+
+    <div>
+      <label style="font-weight:600;font-size:0.875rem;display:block;margin-bottom:0.375rem;color:var(--gray-700);">Email Address</label>
+      <input type="email" name="email" required placeholder="you@yourbusiness.com" style="width:100%;padding:0.75rem 1rem;border-radius:8px;border:1px solid var(--gray-300);font-size:1rem;font-family:var(--font);">
+    </div>
+
+    <div>
+      <label style="font-weight:600;font-size:0.875rem;display:block;margin-bottom:0.375rem;color:var(--gray-700);">Phone</label>
+      <input type="tel" name="phone" required placeholder="(319) 555-1234" style="width:100%;padding:0.75rem 1rem;border-radius:8px;border:1px solid var(--gray-300);font-size:1rem;font-family:var(--font);">
+    </div>
+
+    <div>
+      <label style="font-weight:600;font-size:0.875rem;display:block;margin-bottom:0.375rem;color:var(--gray-700);">Are you interested in a premium listing?</label>
+      <select name="premium" style="width:100%;padding:0.75rem 1rem;border-radius:8px;border:1px solid var(--gray-300);font-size:1rem;font-family:var(--font);background:white;">
+        <option value="maybe">I want to learn more about premium ($29/mo)</option>
+        <option value="no">Just claim my free listing for now</option>
+        <option value="yes">Yes, I'm interested in premium</option>
+      </select>
+    </div>
+
+    <button type="submit" style="background:var(--purple);color:white;border:none;padding:1rem;border-radius:8px;font-weight:700;font-size:1.125rem;cursor:pointer;font-family:var(--font);">Submit Claim</button>
+  </form>
+</section>
+
+<footer class="footer">
+  <p>© 2026 <a href="https://younggrasshopper.io">Young Grasshopper LLC</a> — <a href="https://grasshopperlocal.com">Grasshopper Suite</a></p>
+</footer>
+
+<script>
+// Read query params to pre-fill hidden fields
+const params = new URLSearchParams(window.location.search);
+if (params.get('business')) document.getElementById('business').value = params.get('business');
+if (params.get('city')) document.getElementById('city').value = params.get('city');
+if (params.get('category')) document.getElementById('category').value = params.get('category');
+</script>
+</body>
+</html>

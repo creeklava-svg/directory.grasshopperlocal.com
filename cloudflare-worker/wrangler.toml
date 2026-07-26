@@ -1,0 +1,17 @@
+name = "iowa-directory-leads"
+main = "cloudflare-worker/index.js"
+compatibility_date = "2026-01-01"
+
+# Environment variables (set via wrangler secret)
+[vars]
+TWILIO_PHONE = ""
+
+# KV namespace for lead/subscription storage
+[[kv_namespaces]]
+binding = "LEAD_KV"
+id = ""  # Created via wrangler kv:namespace create
+
+# Routes
+routes = [
+  { pattern = "directory.grasshopperlocal.com/api/*", zone_id = "" }
+]

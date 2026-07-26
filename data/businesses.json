@@ -1,0 +1,5312 @@
+[
+  {
+    "name": "Smith Plumbing of Iowa City",
+    "address": "1268 Henderson Ave, Iowa City, IA 52240",
+    "phone": "(319) 220-4047",
+    "website": "https://example.com/smith-plumbing-of-iowa-city",
+    "rating": 3.0,
+    "review_count": 36,
+    "place_id": "sample_iowa-city_plumber_0",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.558202"
+  },
+  {
+    "name": "Johnson Pipe & Repair of Iowa City",
+    "address": "1820 West Ave, Iowa City, IA 52240",
+    "phone": "(319) 903-1589",
+    "website": "https://example.com/johnson-pipe-&-repair-of-iowa-city",
+    "rating": 5.0,
+    "review_count": 55,
+    "place_id": "sample_iowa-city_plumber_1",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.558202"
+  },
+  {
+    "name": "Burlington Drain Masters of Iowa City",
+    "address": "212 Henderson Ave, Iowa City, IA 52240",
+    "phone": "(319) 710-1877",
+    "website": "https://example.com/burlington-drain-masters-of-iowa-city",
+    "rating": 3.5,
+    "review_count": 64,
+    "place_id": "sample_iowa-city_plumber_2",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.558202"
+  },
+  {
+    "name": "Iowa City Plumbing Co",
+    "address": "124 Washington Ave, Iowa City, IA 52240",
+    "phone": "(319) 597-9486",
+    "website": "https://example.com/iowa-city-plumbing-co",
+    "rating": 3.5,
+    "review_count": 74,
+    "place_id": "sample_iowa-city_plumber_3",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.558202"
+  },
+  {
+    "name": "Keokuk Sewer & Drain of Iowa City",
+    "address": "1960 Division St, Iowa City, IA 52240",
+    "phone": "(319) 699-2824",
+    "website": "https://example.com/keokuk-sewer-&-drain-of-iowa-city",
+    "rating": 3.4,
+    "review_count": 64,
+    "place_id": "sample_iowa-city_plumber_4",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Plumbing Pros",
+    "address": "2370 Washington Ave, Iowa City, IA 52240",
+    "phone": "(319) 484-3885",
+    "website": "https://example.com/fairfield-plumbing-pros",
+    "rating": 4.1,
+    "review_count": 66,
+    "place_id": "sample_iowa-city_plumber_5",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Comfort Air HVAC of Iowa City",
+    "address": "826 High St, Iowa City, IA 52240",
+    "phone": "(319) 511-4490",
+    "website": "https://example.com/comfort-air-hvac-of-iowa-city",
+    "rating": 4.4,
+    "review_count": 10,
+    "place_id": "sample_iowa-city_hvac_0",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa Heating & Cooling of Iowa City",
+    "address": "1215 Washington Ave, Iowa City, IA 52240",
+    "phone": "(319) 390-5216",
+    "website": "https://example.com/iowa-heating-&-cooling-of-iowa-city",
+    "rating": 3.5,
+    "review_count": 63,
+    "place_id": "sample_iowa-city_hvac_1",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Furnace Co of Iowa City",
+    "address": "899 Spring St, Iowa City, IA 52240",
+    "phone": "(319) 314-2140",
+    "website": "https://example.com/burlington-furnace-co-of-iowa-city",
+    "rating": 3.4,
+    "review_count": 78,
+    "place_id": "sample_iowa-city_hvac_2",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Johnson County AC of Iowa City",
+    "address": "952 Main St, Iowa City, IA 52240",
+    "phone": "(319) 594-1971",
+    "website": "https://example.com/johnson-county-ac-of-iowa-city",
+    "rating": 4.8,
+    "review_count": 8,
+    "place_id": "sample_iowa-city_hvac_3",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Climate Control",
+    "address": "1531 Summer St, Iowa City, IA 52240",
+    "phone": "(319) 435-6775",
+    "website": "https://example.com/keokuk-climate-control",
+    "rating": 3.4,
+    "review_count": 26,
+    "place_id": "sample_iowa-city_hvac_4",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Furnace & Air",
+    "address": "1933 Henderson Ave, Iowa City, IA 52240",
+    "phone": "(319) 889-9013",
+    "website": "https://example.com/fairfield-furnace-&-air",
+    "rating": 4.9,
+    "review_count": 76,
+    "place_id": "sample_iowa-city_hvac_5",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Bright Way Electric of Iowa City",
+    "address": "1425 3rd St, Iowa City, IA 52240",
+    "phone": "(319) 523-2163",
+    "website": "https://example.com/bright-way-electric-of-iowa-city",
+    "rating": 4.9,
+    "review_count": 41,
+    "place_id": "sample_iowa-city_electrician_0",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Electrical Services",
+    "address": "1835 Summer St, Iowa City, IA 52240",
+    "phone": "(319) 972-3497",
+    "website": "https://example.com/burlington-electrical-services",
+    "rating": 3.1,
+    "review_count": 51,
+    "place_id": "sample_iowa-city_electrician_1",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Electric Co",
+    "address": "843 West Ave, Iowa City, IA 52240",
+    "phone": "(319) 343-2503",
+    "website": "https://example.com/iowa-city-electric-co",
+    "rating": 4.4,
+    "review_count": 42,
+    "place_id": "sample_iowa-city_electrician_2",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Wiring Pros",
+    "address": "2121 Broadway, Iowa City, IA 52240",
+    "phone": "(319) 739-6412",
+    "website": "https://example.com/keokuk-wiring-pros",
+    "rating": 3.1,
+    "review_count": 43,
+    "place_id": "sample_iowa-city_electrician_3",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Electricians of Iowa City",
+    "address": "118 Henderson Ave, Iowa City, IA 52240",
+    "phone": "(319) 333-9607",
+    "website": "https://example.com/fairfield-electricians-of-iowa-city",
+    "rating": 4.6,
+    "review_count": 25,
+    "place_id": "sample_iowa-city_electrician_4",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Top Notch Roofing of Iowa City",
+    "address": "2106 High St, Iowa City, IA 52240",
+    "phone": "(319) 388-3608",
+    "website": "https://example.com/top-notch-roofing-of-iowa-city",
+    "rating": 3.7,
+    "review_count": 25,
+    "place_id": "sample_iowa-city_roofer_0",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Roofing Co of Iowa City",
+    "address": "2320 3rd St, Iowa City, IA 52240",
+    "phone": "(319) 869-3937",
+    "website": "https://example.com/burlington-roofing-co-of-iowa-city",
+    "rating": 4.4,
+    "review_count": 64,
+    "place_id": "sample_iowa-city_roofer_1",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Roof Masters",
+    "address": "394 Maple St, Iowa City, IA 52240",
+    "phone": "(319) 621-3073",
+    "website": "https://example.com/iowa-city-roof-masters",
+    "rating": 4.9,
+    "review_count": 56,
+    "place_id": "sample_iowa-city_roofer_2",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Roof & Gutters",
+    "address": "1672 Jefferson St, Iowa City, IA 52240",
+    "phone": "(319) 862-9031",
+    "website": "https://example.com/keokuk-roof-&-gutters",
+    "rating": 3.3,
+    "review_count": 66,
+    "place_id": "sample_iowa-city_roofer_3",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Roofing Pros",
+    "address": "830 Spring St, Iowa City, IA 52240",
+    "phone": "(319) 457-6713",
+    "website": "https://example.com/fairfield-roofing-pros",
+    "rating": 4.1,
+    "review_count": 34,
+    "place_id": "sample_iowa-city_roofer_4",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Able Locksmith of Iowa City",
+    "address": "689 4th St, Iowa City, IA 52240",
+    "phone": "(319) 502-7706",
+    "website": "https://example.com/able-locksmith-of-iowa-city",
+    "rating": 3.1,
+    "review_count": 9,
+    "place_id": "sample_iowa-city_locksmith_0",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Lock & Key",
+    "address": "332 Main St, Iowa City, IA 52240",
+    "phone": "(319) 679-3552",
+    "website": "https://example.com/burlington-lock-&-key",
+    "rating": 3.6,
+    "review_count": 29,
+    "place_id": "sample_iowa-city_locksmith_1",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Locksmiths",
+    "address": "767 Henderson Ave, Iowa City, IA 52240",
+    "phone": "(319) 734-6445",
+    "website": "https://example.com/iowa-city-locksmiths",
+    "rating": 4.5,
+    "review_count": 51,
+    "place_id": "sample_iowa-city_locksmith_2",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Green Thumb Landscaping of Iowa City",
+    "address": "2073 Spring St, Iowa City, IA 52240",
+    "phone": "(319) 298-2474",
+    "website": "https://example.com/green-thumb-landscaping-of-iowa-city",
+    "rating": 3.1,
+    "review_count": 30,
+    "place_id": "sample_iowa-city_landscaper_0",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Lawn Care",
+    "address": "2242 West Ave, Iowa City, IA 52240",
+    "phone": "(319) 713-3449",
+    "website": "https://example.com/burlington-lawn-care",
+    "rating": 4.3,
+    "review_count": 50,
+    "place_id": "sample_iowa-city_landscaper_1",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Landscape Design",
+    "address": "2474 Spring St, Iowa City, IA 52240",
+    "phone": "(319) 914-1028",
+    "website": "https://example.com/iowa-city-landscape-design",
+    "rating": 3.2,
+    "review_count": 10,
+    "place_id": "sample_iowa-city_landscaper_2",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Outdoor Pros of Iowa City",
+    "address": "506 West Ave, Iowa City, IA 52240",
+    "phone": "(319) 580-4212",
+    "website": "https://example.com/keokuk-outdoor-pros-of-iowa-city",
+    "rating": 3.9,
+    "review_count": 23,
+    "place_id": "sample_iowa-city_landscaper_3",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Landscaping of Iowa City",
+    "address": "603 Main St, Iowa City, IA 52240",
+    "phone": "(319) 659-2971",
+    "website": "https://example.com/fairfield-landscaping-of-iowa-city",
+    "rating": 4.3,
+    "review_count": 56,
+    "place_id": "sample_iowa-city_landscaper_4",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Bug Free Pest Control of Iowa City",
+    "address": "1807 Division St, Iowa City, IA 52240",
+    "phone": "(319) 996-7038",
+    "website": "https://example.com/bug-free-pest-control-of-iowa-city",
+    "rating": 5.0,
+    "review_count": 64,
+    "place_id": "sample_iowa-city_pest-control_0",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Exterminating of Iowa City",
+    "address": "1434 Broadway, Iowa City, IA 52240",
+    "phone": "(319) 426-2164",
+    "website": "https://example.com/burlington-exterminating-of-iowa-city",
+    "rating": 3.4,
+    "review_count": 74,
+    "place_id": "sample_iowa-city_pest-control_1",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Pest Pros",
+    "address": "1261 Broadway, Iowa City, IA 52240",
+    "phone": "(319) 509-7753",
+    "website": "https://example.com/iowa-city-pest-pros",
+    "rating": 3.2,
+    "review_count": 6,
+    "place_id": "sample_iowa-city_pest-control_2",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Termite & Pest of Iowa City",
+    "address": "1284 Main St, Iowa City, IA 52240",
+    "phone": "(319) 312-9591",
+    "website": "https://example.com/keokuk-termite-&-pest-of-iowa-city",
+    "rating": 3.5,
+    "review_count": 24,
+    "place_id": "sample_iowa-city_pest-control_3",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Iowa City",
+    "city_slug": "iowa-city",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Smith Plumbing",
+    "address": "2234 Spring St, Burlington, IA 52601",
+    "phone": "(319) 273-8149",
+    "website": "https://example.com/smith-plumbing",
+    "rating": 4.9,
+    "review_count": 47,
+    "place_id": "sample_burlington-iowa_plumber_0",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Johnson Pipe & Repair",
+    "address": "2194 Oak Ave, Burlington, IA 52601",
+    "phone": "(319) 586-3641",
+    "website": "https://example.com/johnson-pipe-&-repair",
+    "rating": 4.2,
+    "review_count": 6,
+    "place_id": "sample_burlington-iowa_plumber_1",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Drain Masters",
+    "address": "1717 Spring St, Burlington, IA 52601",
+    "phone": "(319) 850-2829",
+    "website": "https://example.com/burlington-drain-masters",
+    "rating": 3.7,
+    "review_count": 61,
+    "place_id": "sample_burlington-iowa_plumber_2",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Plumbing Co",
+    "address": "1004 West Ave, Burlington, IA 52601",
+    "phone": "(319) 313-5376",
+    "website": "https://example.com/iowa-city-plumbing-co",
+    "rating": 4.8,
+    "review_count": 13,
+    "place_id": "sample_burlington-iowa_plumber_3",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Sewer & Drain of Burlington",
+    "address": "617 High St, Burlington, IA 52601",
+    "phone": "(319) 422-1998",
+    "website": "https://example.com/keokuk-sewer-&-drain-of-burlington",
+    "rating": 3.2,
+    "review_count": 18,
+    "place_id": "sample_burlington-iowa_plumber_4",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Plumbing Pros",
+    "address": "725 West Ave, Burlington, IA 52601",
+    "phone": "(319) 263-7918",
+    "website": "https://example.com/fairfield-plumbing-pros",
+    "rating": 3.2,
+    "review_count": 16,
+    "place_id": "sample_burlington-iowa_plumber_5",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Comfort Air HVAC of Burlington",
+    "address": "459 Jefferson St, Burlington, IA 52601",
+    "phone": "(319) 940-5240",
+    "website": "https://example.com/comfort-air-hvac-of-burlington",
+    "rating": 4.8,
+    "review_count": 43,
+    "place_id": "sample_burlington-iowa_hvac_0",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa Heating & Cooling of Burlington",
+    "address": "1211 Washington Ave, Burlington, IA 52601",
+    "phone": "(319) 272-3530",
+    "website": "https://example.com/iowa-heating-&-cooling-of-burlington",
+    "rating": 4.2,
+    "review_count": 11,
+    "place_id": "sample_burlington-iowa_hvac_1",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Furnace Co",
+    "address": "2158 Oak Ave, Burlington, IA 52601",
+    "phone": "(319) 659-6865",
+    "website": "https://example.com/burlington-furnace-co",
+    "rating": 3.3,
+    "review_count": 38,
+    "place_id": "sample_burlington-iowa_hvac_2",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Johnson County AC",
+    "address": "285 West Ave, Burlington, IA 52601",
+    "phone": "(319) 824-8972",
+    "website": "https://example.com/johnson-county-ac",
+    "rating": 3.7,
+    "review_count": 54,
+    "place_id": "sample_burlington-iowa_hvac_3",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Bright Way Electric",
+    "address": "845 Summer St, Burlington, IA 52601",
+    "phone": "(319) 933-9371",
+    "website": "https://example.com/bright-way-electric",
+    "rating": 3.9,
+    "review_count": 79,
+    "place_id": "sample_burlington-iowa_electrician_0",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Electrical Services",
+    "address": "2110 Division St, Burlington, IA 52601",
+    "phone": "(319) 785-4445",
+    "website": "https://example.com/burlington-electrical-services",
+    "rating": 4.1,
+    "review_count": 43,
+    "place_id": "sample_burlington-iowa_electrician_1",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Electric Co",
+    "address": "612 Summer St, Burlington, IA 52601",
+    "phone": "(319) 975-7733",
+    "website": "https://example.com/iowa-city-electric-co",
+    "rating": 3.4,
+    "review_count": 60,
+    "place_id": "sample_burlington-iowa_electrician_2",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Top Notch Roofing of Burlington",
+    "address": "1170 Henderson Ave, Burlington, IA 52601",
+    "phone": "(319) 820-9841",
+    "website": "https://example.com/top-notch-roofing-of-burlington",
+    "rating": 4.2,
+    "review_count": 25,
+    "place_id": "sample_burlington-iowa_roofer_0",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Roofing Co",
+    "address": "881 Washington Ave, Burlington, IA 52601",
+    "phone": "(319) 424-9752",
+    "website": "https://example.com/burlington-roofing-co",
+    "rating": 3.1,
+    "review_count": 55,
+    "place_id": "sample_burlington-iowa_roofer_1",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Roof Masters of Burlington",
+    "address": "309 Broadway, Burlington, IA 52601",
+    "phone": "(319) 987-9040",
+    "website": "https://example.com/iowa-city-roof-masters-of-burlington",
+    "rating": 3.5,
+    "review_count": 4,
+    "place_id": "sample_burlington-iowa_roofer_2",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Able Locksmith of Burlington",
+    "address": "581 Henderson Ave, Burlington, IA 52601",
+    "phone": "(319) 859-5161",
+    "website": "https://example.com/able-locksmith-of-burlington",
+    "rating": 3.6,
+    "review_count": 3,
+    "place_id": "sample_burlington-iowa_locksmith_0",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Lock & Key",
+    "address": "1440 3rd St, Burlington, IA 52601",
+    "phone": "(319) 222-3907",
+    "website": "https://example.com/burlington-lock-&-key",
+    "rating": 4.8,
+    "review_count": 31,
+    "place_id": "sample_burlington-iowa_locksmith_1",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Locksmiths of Burlington",
+    "address": "2355 Washington Ave, Burlington, IA 52601",
+    "phone": "(319) 450-2649",
+    "website": "https://example.com/iowa-city-locksmiths-of-burlington",
+    "rating": 4.6,
+    "review_count": 70,
+    "place_id": "sample_burlington-iowa_locksmith_2",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Safe & Lock of Burlington",
+    "address": "623 Summer St, Burlington, IA 52601",
+    "phone": "(319) 948-2595",
+    "website": "https://example.com/keokuk-safe-&-lock-of-burlington",
+    "rating": 4.7,
+    "review_count": 11,
+    "place_id": "sample_burlington-iowa_locksmith_3",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Green Thumb Landscaping of Burlington",
+    "address": "834 Agency St, Burlington, IA 52601",
+    "phone": "(319) 788-8008",
+    "website": "https://example.com/green-thumb-landscaping-of-burlington",
+    "rating": 3.9,
+    "review_count": 13,
+    "place_id": "sample_burlington-iowa_landscaper_0",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Lawn Care",
+    "address": "586 Division St, Burlington, IA 52601",
+    "phone": "(319) 706-5812",
+    "website": "https://example.com/burlington-lawn-care",
+    "rating": 3.6,
+    "review_count": 52,
+    "place_id": "sample_burlington-iowa_landscaper_1",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Landscape Design of Burlington",
+    "address": "1531 4th St, Burlington, IA 52601",
+    "phone": "(319) 908-9451",
+    "website": "https://example.com/iowa-city-landscape-design-of-burlington",
+    "rating": 3.4,
+    "review_count": 39,
+    "place_id": "sample_burlington-iowa_landscaper_2",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Outdoor Pros",
+    "address": "1522 High St, Burlington, IA 52601",
+    "phone": "(319) 779-1805",
+    "website": "https://example.com/keokuk-outdoor-pros",
+    "rating": 4.7,
+    "review_count": 76,
+    "place_id": "sample_burlington-iowa_landscaper_3",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Landscaping of Burlington",
+    "address": "1288 Division St, Burlington, IA 52601",
+    "phone": "(319) 522-1801",
+    "website": "https://example.com/fairfield-landscaping-of-burlington",
+    "rating": 4.0,
+    "review_count": 3,
+    "place_id": "sample_burlington-iowa_landscaper_4",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Mt. Pleasant Lawn & Garden",
+    "address": "1279 Agency St, Burlington, IA 52601",
+    "phone": "(319) 921-2370",
+    "website": "https://example.com/mt.-pleasant-lawn-&-garden",
+    "rating": 3.3,
+    "review_count": 21,
+    "place_id": "sample_burlington-iowa_landscaper_5",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Bug Free Pest Control",
+    "address": "1081 High St, Burlington, IA 52601",
+    "phone": "(319) 912-9251",
+    "website": "https://example.com/bug-free-pest-control",
+    "rating": 4.9,
+    "review_count": 42,
+    "place_id": "sample_burlington-iowa_pest-control_0",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Exterminating",
+    "address": "700 Henderson Ave, Burlington, IA 52601",
+    "phone": "(319) 221-9301",
+    "website": "https://example.com/burlington-exterminating",
+    "rating": 3.5,
+    "review_count": 9,
+    "place_id": "sample_burlington-iowa_pest-control_1",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Pest Pros of Burlington",
+    "address": "1324 Summer St, Burlington, IA 52601",
+    "phone": "(319) 913-9873",
+    "website": "https://example.com/iowa-city-pest-pros-of-burlington",
+    "rating": 4.0,
+    "review_count": 13,
+    "place_id": "sample_burlington-iowa_pest-control_2",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Termite & Pest",
+    "address": "566 Henderson Ave, Burlington, IA 52601",
+    "phone": "(319) 889-3501",
+    "website": "https://example.com/keokuk-termite-&-pest",
+    "rating": 3.2,
+    "review_count": 14,
+    "place_id": "sample_burlington-iowa_pest-control_3",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Pest Management of Burlington",
+    "address": "269 Oak Ave, Burlington, IA 52601",
+    "phone": "(319) 723-8561",
+    "website": "https://example.com/fairfield-pest-management-of-burlington",
+    "rating": 5.0,
+    "review_count": 19,
+    "place_id": "sample_burlington-iowa_pest-control_4",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Mt. Pleasant Pest Control of Burlington",
+    "address": "2173 Division St, Burlington, IA 52601",
+    "phone": "(319) 296-3285",
+    "website": "https://example.com/mt.-pleasant-pest-control-of-burlington",
+    "rating": 3.2,
+    "review_count": 65,
+    "place_id": "sample_burlington-iowa_pest-control_5",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Burlington",
+    "city_slug": "burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Smith Plumbing",
+    "address": "1759 Broadway, Fort Madison, IA 52627",
+    "phone": "(319) 486-4746",
+    "website": "https://example.com/smith-plumbing",
+    "rating": 4.2,
+    "review_count": 73,
+    "place_id": "sample_fort-madison-iowa_plumber_0",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Johnson Pipe & Repair of Fort Madison",
+    "address": "2022 Broadway, Fort Madison, IA 52627",
+    "phone": "(319) 232-1789",
+    "website": "https://example.com/johnson-pipe-&-repair-of-fort-madison",
+    "rating": 4.5,
+    "review_count": 55,
+    "place_id": "sample_fort-madison-iowa_plumber_1",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Drain Masters of Fort Madison",
+    "address": "430 Agency St, Fort Madison, IA 52627",
+    "phone": "(319) 926-7086",
+    "website": "https://example.com/burlington-drain-masters-of-fort-madison",
+    "rating": 3.3,
+    "review_count": 3,
+    "place_id": "sample_fort-madison-iowa_plumber_2",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Plumbing Co of Fort Madison",
+    "address": "2062 Division St, Fort Madison, IA 52627",
+    "phone": "(319) 876-2196",
+    "website": "https://example.com/iowa-city-plumbing-co-of-fort-madison",
+    "rating": 3.2,
+    "review_count": 17,
+    "place_id": "sample_fort-madison-iowa_plumber_3",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Sewer & Drain of Fort Madison",
+    "address": "786 Henderson Ave, Fort Madison, IA 52627",
+    "phone": "(319) 916-4458",
+    "website": "https://example.com/keokuk-sewer-&-drain-of-fort-madison",
+    "rating": 4.0,
+    "review_count": 8,
+    "place_id": "sample_fort-madison-iowa_plumber_4",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Plumbing Pros of Fort Madison",
+    "address": "1220 Washington Ave, Fort Madison, IA 52627",
+    "phone": "(319) 560-7503",
+    "website": "https://example.com/fairfield-plumbing-pros-of-fort-madison",
+    "rating": 3.8,
+    "review_count": 64,
+    "place_id": "sample_fort-madison-iowa_plumber_5",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Comfort Air HVAC of Fort Madison",
+    "address": "511 Summer St, Fort Madison, IA 52627",
+    "phone": "(319) 451-3071",
+    "website": "https://example.com/comfort-air-hvac-of-fort-madison",
+    "rating": 3.2,
+    "review_count": 19,
+    "place_id": "sample_fort-madison-iowa_hvac_0",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa Heating & Cooling of Fort Madison",
+    "address": "1221 3rd St, Fort Madison, IA 52627",
+    "phone": "(319) 547-7820",
+    "website": "https://example.com/iowa-heating-&-cooling-of-fort-madison",
+    "rating": 3.4,
+    "review_count": 41,
+    "place_id": "sample_fort-madison-iowa_hvac_1",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Furnace Co of Fort Madison",
+    "address": "1991 Summer St, Fort Madison, IA 52627",
+    "phone": "(319) 273-6772",
+    "website": "https://example.com/burlington-furnace-co-of-fort-madison",
+    "rating": 4.3,
+    "review_count": 10,
+    "place_id": "sample_fort-madison-iowa_hvac_2",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Johnson County AC",
+    "address": "1994 Spring St, Fort Madison, IA 52627",
+    "phone": "(319) 819-2677",
+    "website": "https://example.com/johnson-county-ac",
+    "rating": 4.8,
+    "review_count": 16,
+    "place_id": "sample_fort-madison-iowa_hvac_3",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Climate Control of Fort Madison",
+    "address": "1290 Broadway, Fort Madison, IA 52627",
+    "phone": "(319) 639-4469",
+    "website": "https://example.com/keokuk-climate-control-of-fort-madison",
+    "rating": 4.1,
+    "review_count": 65,
+    "place_id": "sample_fort-madison-iowa_hvac_4",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Bright Way Electric of Fort Madison",
+    "address": "1334 Spring St, Fort Madison, IA 52627",
+    "phone": "(319) 231-8958",
+    "website": "https://example.com/bright-way-electric-of-fort-madison",
+    "rating": 4.0,
+    "review_count": 61,
+    "place_id": "sample_fort-madison-iowa_electrician_0",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Electrical Services of Fort Madison",
+    "address": "1143 Division St, Fort Madison, IA 52627",
+    "phone": "(319) 635-6904",
+    "website": "https://example.com/burlington-electrical-services-of-fort-madison",
+    "rating": 3.7,
+    "review_count": 18,
+    "place_id": "sample_fort-madison-iowa_electrician_1",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Electric Co of Fort Madison",
+    "address": "1700 Division St, Fort Madison, IA 52627",
+    "phone": "(319) 438-1635",
+    "website": "https://example.com/iowa-city-electric-co-of-fort-madison",
+    "rating": 5.0,
+    "review_count": 41,
+    "place_id": "sample_fort-madison-iowa_electrician_2",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Wiring Pros of Fort Madison",
+    "address": "2229 Summer St, Fort Madison, IA 52627",
+    "phone": "(319) 827-8936",
+    "website": "https://example.com/keokuk-wiring-pros-of-fort-madison",
+    "rating": 4.2,
+    "review_count": 45,
+    "place_id": "sample_fort-madison-iowa_electrician_3",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Electricians of Fort Madison",
+    "address": "1947 Broadway, Fort Madison, IA 52627",
+    "phone": "(319) 581-7071",
+    "website": "https://example.com/fairfield-electricians-of-fort-madison",
+    "rating": 3.9,
+    "review_count": 36,
+    "place_id": "sample_fort-madison-iowa_electrician_4",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Mt. Pleasant Electric of Fort Madison",
+    "address": "382 Maple St, Fort Madison, IA 52627",
+    "phone": "(319) 615-5196",
+    "website": "https://example.com/mt.-pleasant-electric-of-fort-madison",
+    "rating": 4.4,
+    "review_count": 4,
+    "place_id": "sample_fort-madison-iowa_electrician_5",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Top Notch Roofing",
+    "address": "732 Division St, Fort Madison, IA 52627",
+    "phone": "(319) 884-2272",
+    "website": "https://example.com/top-notch-roofing",
+    "rating": 4.0,
+    "review_count": 16,
+    "place_id": "sample_fort-madison-iowa_roofer_0",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Roofing Co of Fort Madison",
+    "address": "2131 Division St, Fort Madison, IA 52627",
+    "phone": "(319) 383-9851",
+    "website": "https://example.com/burlington-roofing-co-of-fort-madison",
+    "rating": 4.4,
+    "review_count": 15,
+    "place_id": "sample_fort-madison-iowa_roofer_1",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Roof Masters",
+    "address": "657 Broadway, Fort Madison, IA 52627",
+    "phone": "(319) 454-4785",
+    "website": "https://example.com/iowa-city-roof-masters",
+    "rating": 4.6,
+    "review_count": 25,
+    "place_id": "sample_fort-madison-iowa_roofer_2",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Able Locksmith of Fort Madison",
+    "address": "1756 Washington Ave, Fort Madison, IA 52627",
+    "phone": "(319) 598-3155",
+    "website": "https://example.com/able-locksmith-of-fort-madison",
+    "rating": 3.4,
+    "review_count": 12,
+    "place_id": "sample_fort-madison-iowa_locksmith_0",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Lock & Key of Fort Madison",
+    "address": "1057 Agency St, Fort Madison, IA 52627",
+    "phone": "(319) 890-7277",
+    "website": "https://example.com/burlington-lock-&-key-of-fort-madison",
+    "rating": 3.7,
+    "review_count": 14,
+    "place_id": "sample_fort-madison-iowa_locksmith_1",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Locksmiths of Fort Madison",
+    "address": "499 Spring St, Fort Madison, IA 52627",
+    "phone": "(319) 349-6028",
+    "website": "https://example.com/iowa-city-locksmiths-of-fort-madison",
+    "rating": 3.2,
+    "review_count": 17,
+    "place_id": "sample_fort-madison-iowa_locksmith_2",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Green Thumb Landscaping of Fort Madison",
+    "address": "333 High St, Fort Madison, IA 52627",
+    "phone": "(319) 219-8319",
+    "website": "https://example.com/green-thumb-landscaping-of-fort-madison",
+    "rating": 3.5,
+    "review_count": 78,
+    "place_id": "sample_fort-madison-iowa_landscaper_0",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Lawn Care of Fort Madison",
+    "address": "1394 Division St, Fort Madison, IA 52627",
+    "phone": "(319) 935-7041",
+    "website": "https://example.com/burlington-lawn-care-of-fort-madison",
+    "rating": 3.7,
+    "review_count": 70,
+    "place_id": "sample_fort-madison-iowa_landscaper_1",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Landscape Design of Fort Madison",
+    "address": "649 Spring St, Fort Madison, IA 52627",
+    "phone": "(319) 618-9918",
+    "website": "https://example.com/iowa-city-landscape-design-of-fort-madison",
+    "rating": 4.8,
+    "review_count": 60,
+    "place_id": "sample_fort-madison-iowa_landscaper_2",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Outdoor Pros of Fort Madison",
+    "address": "2165 3rd St, Fort Madison, IA 52627",
+    "phone": "(319) 467-8874",
+    "website": "https://example.com/keokuk-outdoor-pros-of-fort-madison",
+    "rating": 4.1,
+    "review_count": 42,
+    "place_id": "sample_fort-madison-iowa_landscaper_3",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Landscaping of Fort Madison",
+    "address": "203 Division St, Fort Madison, IA 52627",
+    "phone": "(319) 801-8231",
+    "website": "https://example.com/fairfield-landscaping-of-fort-madison",
+    "rating": 3.8,
+    "review_count": 5,
+    "place_id": "sample_fort-madison-iowa_landscaper_4",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Mt. Pleasant Lawn & Garden of Fort Madison",
+    "address": "884 Maple St, Fort Madison, IA 52627",
+    "phone": "(319) 523-7607",
+    "website": "https://example.com/mt.-pleasant-lawn-&-garden-of-fort-madison",
+    "rating": 4.6,
+    "review_count": 71,
+    "place_id": "sample_fort-madison-iowa_landscaper_5",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Bug Free Pest Control of Fort Madison",
+    "address": "970 Main St, Fort Madison, IA 52627",
+    "phone": "(319) 571-1990",
+    "website": "https://example.com/bug-free-pest-control-of-fort-madison",
+    "rating": 4.0,
+    "review_count": 73,
+    "place_id": "sample_fort-madison-iowa_pest-control_0",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Exterminating of Fort Madison",
+    "address": "552 Agency St, Fort Madison, IA 52627",
+    "phone": "(319) 558-5299",
+    "website": "https://example.com/burlington-exterminating-of-fort-madison",
+    "rating": 3.7,
+    "review_count": 15,
+    "place_id": "sample_fort-madison-iowa_pest-control_1",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Pest Pros",
+    "address": "2224 Oak Ave, Fort Madison, IA 52627",
+    "phone": "(319) 891-6778",
+    "website": "https://example.com/iowa-city-pest-pros",
+    "rating": 4.3,
+    "review_count": 42,
+    "place_id": "sample_fort-madison-iowa_pest-control_2",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Termite & Pest of Fort Madison",
+    "address": "1217 Maple St, Fort Madison, IA 52627",
+    "phone": "(319) 476-2147",
+    "website": "https://example.com/keokuk-termite-&-pest-of-fort-madison",
+    "rating": 5.0,
+    "review_count": 60,
+    "place_id": "sample_fort-madison-iowa_pest-control_3",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Pest Management",
+    "address": "2308 Washington Ave, Fort Madison, IA 52627",
+    "phone": "(319) 844-2305",
+    "website": "https://example.com/fairfield-pest-management",
+    "rating": 3.2,
+    "review_count": 39,
+    "place_id": "sample_fort-madison-iowa_pest-control_4",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Mt. Pleasant Pest Control of Fort Madison",
+    "address": "2287 Henderson Ave, Fort Madison, IA 52627",
+    "phone": "(319) 930-5233",
+    "website": "https://example.com/mt.-pleasant-pest-control-of-fort-madison",
+    "rating": 4.4,
+    "review_count": 51,
+    "place_id": "sample_fort-madison-iowa_pest-control_5",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Fort Madison",
+    "city_slug": "fort-madison-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Smith Plumbing",
+    "address": "1897 Washington Ave, Keokuk, IA 52632",
+    "phone": "(319) 260-4488",
+    "website": "https://example.com/smith-plumbing",
+    "rating": 4.4,
+    "review_count": 80,
+    "place_id": "sample_keokuk-iowa_plumber_0",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Johnson Pipe & Repair",
+    "address": "1249 Division St, Keokuk, IA 52632",
+    "phone": "(319) 939-9000",
+    "website": "https://example.com/johnson-pipe-&-repair",
+    "rating": 3.8,
+    "review_count": 32,
+    "place_id": "sample_keokuk-iowa_plumber_1",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Drain Masters of Keokuk",
+    "address": "1701 3rd St, Keokuk, IA 52632",
+    "phone": "(319) 630-4098",
+    "website": "https://example.com/burlington-drain-masters-of-keokuk",
+    "rating": 4.1,
+    "review_count": 17,
+    "place_id": "sample_keokuk-iowa_plumber_2",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Comfort Air HVAC",
+    "address": "2059 Washington Ave, Keokuk, IA 52632",
+    "phone": "(319) 954-6843",
+    "website": "https://example.com/comfort-air-hvac",
+    "rating": 4.1,
+    "review_count": 64,
+    "place_id": "sample_keokuk-iowa_hvac_0",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa Heating & Cooling",
+    "address": "277 Maple St, Keokuk, IA 52632",
+    "phone": "(319) 783-3823",
+    "website": "https://example.com/iowa-heating-&-cooling",
+    "rating": 4.1,
+    "review_count": 62,
+    "place_id": "sample_keokuk-iowa_hvac_1",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Furnace Co of Keokuk",
+    "address": "546 Maple St, Keokuk, IA 52632",
+    "phone": "(319) 944-3633",
+    "website": "https://example.com/burlington-furnace-co-of-keokuk",
+    "rating": 3.7,
+    "review_count": 58,
+    "place_id": "sample_keokuk-iowa_hvac_2",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Johnson County AC of Keokuk",
+    "address": "667 Division St, Keokuk, IA 52632",
+    "phone": "(319) 954-1785",
+    "website": "https://example.com/johnson-county-ac-of-keokuk",
+    "rating": 4.8,
+    "review_count": 28,
+    "place_id": "sample_keokuk-iowa_hvac_3",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Climate Control",
+    "address": "971 3rd St, Keokuk, IA 52632",
+    "phone": "(319) 931-5326",
+    "website": "https://example.com/keokuk-climate-control",
+    "rating": 3.2,
+    "review_count": 36,
+    "place_id": "sample_keokuk-iowa_hvac_4",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Bright Way Electric of Keokuk",
+    "address": "1320 Oak Ave, Keokuk, IA 52632",
+    "phone": "(319) 659-3906",
+    "website": "https://example.com/bright-way-electric-of-keokuk",
+    "rating": 3.4,
+    "review_count": 14,
+    "place_id": "sample_keokuk-iowa_electrician_0",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Electrical Services of Keokuk",
+    "address": "193 Summer St, Keokuk, IA 52632",
+    "phone": "(319) 309-3015",
+    "website": "https://example.com/burlington-electrical-services-of-keokuk",
+    "rating": 3.1,
+    "review_count": 79,
+    "place_id": "sample_keokuk-iowa_electrician_1",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Electric Co of Keokuk",
+    "address": "921 Main St, Keokuk, IA 52632",
+    "phone": "(319) 314-7328",
+    "website": "https://example.com/iowa-city-electric-co-of-keokuk",
+    "rating": 4.9,
+    "review_count": 51,
+    "place_id": "sample_keokuk-iowa_electrician_2",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Wiring Pros",
+    "address": "1053 Main St, Keokuk, IA 52632",
+    "phone": "(319) 961-2327",
+    "website": "https://example.com/keokuk-wiring-pros",
+    "rating": 3.2,
+    "review_count": 80,
+    "place_id": "sample_keokuk-iowa_electrician_3",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Electricians of Keokuk",
+    "address": "422 3rd St, Keokuk, IA 52632",
+    "phone": "(319) 765-6719",
+    "website": "https://example.com/fairfield-electricians-of-keokuk",
+    "rating": 3.0,
+    "review_count": 49,
+    "place_id": "sample_keokuk-iowa_electrician_4",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Top Notch Roofing",
+    "address": "1308 Broadway, Keokuk, IA 52632",
+    "phone": "(319) 275-1734",
+    "website": "https://example.com/top-notch-roofing",
+    "rating": 4.7,
+    "review_count": 12,
+    "place_id": "sample_keokuk-iowa_roofer_0",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Roofing Co of Keokuk",
+    "address": "1720 Spring St, Keokuk, IA 52632",
+    "phone": "(319) 903-1918",
+    "website": "https://example.com/burlington-roofing-co-of-keokuk",
+    "rating": 3.9,
+    "review_count": 7,
+    "place_id": "sample_keokuk-iowa_roofer_1",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Roof Masters of Keokuk",
+    "address": "1106 Maple St, Keokuk, IA 52632",
+    "phone": "(319) 767-7348",
+    "website": "https://example.com/iowa-city-roof-masters-of-keokuk",
+    "rating": 4.6,
+    "review_count": 43,
+    "place_id": "sample_keokuk-iowa_roofer_2",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Roof & Gutters",
+    "address": "393 Maple St, Keokuk, IA 52632",
+    "phone": "(319) 933-6696",
+    "website": "https://example.com/keokuk-roof-&-gutters",
+    "rating": 3.2,
+    "review_count": 8,
+    "place_id": "sample_keokuk-iowa_roofer_3",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Able Locksmith of Keokuk",
+    "address": "2288 Spring St, Keokuk, IA 52632",
+    "phone": "(319) 504-7333",
+    "website": "https://example.com/able-locksmith-of-keokuk",
+    "rating": 3.6,
+    "review_count": 75,
+    "place_id": "sample_keokuk-iowa_locksmith_0",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Lock & Key of Keokuk",
+    "address": "789 Jefferson St, Keokuk, IA 52632",
+    "phone": "(319) 330-1939",
+    "website": "https://example.com/burlington-lock-&-key-of-keokuk",
+    "rating": 4.3,
+    "review_count": 66,
+    "place_id": "sample_keokuk-iowa_locksmith_1",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Locksmiths",
+    "address": "353 3rd St, Keokuk, IA 52632",
+    "phone": "(319) 414-9309",
+    "website": "https://example.com/iowa-city-locksmiths",
+    "rating": 4.7,
+    "review_count": 48,
+    "place_id": "sample_keokuk-iowa_locksmith_2",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Safe & Lock",
+    "address": "1708 Henderson Ave, Keokuk, IA 52632",
+    "phone": "(319) 297-7980",
+    "website": "https://example.com/keokuk-safe-&-lock",
+    "rating": 4.9,
+    "review_count": 52,
+    "place_id": "sample_keokuk-iowa_locksmith_3",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Lock Pros",
+    "address": "907 High St, Keokuk, IA 52632",
+    "phone": "(319) 591-9912",
+    "website": "https://example.com/fairfield-lock-pros",
+    "rating": 4.5,
+    "review_count": 60,
+    "place_id": "sample_keokuk-iowa_locksmith_4",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Green Thumb Landscaping of Keokuk",
+    "address": "2235 Oak Ave, Keokuk, IA 52632",
+    "phone": "(319) 598-1998",
+    "website": "https://example.com/green-thumb-landscaping-of-keokuk",
+    "rating": 5.0,
+    "review_count": 20,
+    "place_id": "sample_keokuk-iowa_landscaper_0",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Lawn Care",
+    "address": "2211 Washington Ave, Keokuk, IA 52632",
+    "phone": "(319) 682-7944",
+    "website": "https://example.com/burlington-lawn-care",
+    "rating": 4.3,
+    "review_count": 6,
+    "place_id": "sample_keokuk-iowa_landscaper_1",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Landscape Design",
+    "address": "1094 Summer St, Keokuk, IA 52632",
+    "phone": "(319) 478-2133",
+    "website": "https://example.com/iowa-city-landscape-design",
+    "rating": 3.4,
+    "review_count": 28,
+    "place_id": "sample_keokuk-iowa_landscaper_2",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Outdoor Pros",
+    "address": "209 Spring St, Keokuk, IA 52632",
+    "phone": "(319) 318-6310",
+    "website": "https://example.com/keokuk-outdoor-pros",
+    "rating": 4.1,
+    "review_count": 51,
+    "place_id": "sample_keokuk-iowa_landscaper_3",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Fairfield Landscaping",
+    "address": "1124 Maple St, Keokuk, IA 52632",
+    "phone": "(319) 498-1031",
+    "website": "https://example.com/fairfield-landscaping",
+    "rating": 3.1,
+    "review_count": 48,
+    "place_id": "sample_keokuk-iowa_landscaper_4",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Bug Free Pest Control of Keokuk",
+    "address": "1030 Main St, Keokuk, IA 52632",
+    "phone": "(319) 511-3937",
+    "website": "https://example.com/bug-free-pest-control-of-keokuk",
+    "rating": 3.5,
+    "review_count": 31,
+    "place_id": "sample_keokuk-iowa_pest-control_0",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Exterminating of Keokuk",
+    "address": "1710 High St, Keokuk, IA 52632",
+    "phone": "(319) 336-9850",
+    "website": "https://example.com/burlington-exterminating-of-keokuk",
+    "rating": 3.2,
+    "review_count": 79,
+    "place_id": "sample_keokuk-iowa_pest-control_1",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa City Pest Pros of Keokuk",
+    "address": "2474 Henderson Ave, Keokuk, IA 52632",
+    "phone": "(319) 635-3799",
+    "website": "https://example.com/iowa-city-pest-pros-of-keokuk",
+    "rating": 4.5,
+    "review_count": 11,
+    "place_id": "sample_keokuk-iowa_pest-control_2",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Keokuk Termite & Pest",
+    "address": "1084 Washington Ave, Keokuk, IA 52632",
+    "phone": "(319) 856-8714",
+    "website": "https://example.com/keokuk-termite-&-pest",
+    "rating": 4.5,
+    "review_count": 29,
+    "place_id": "sample_keokuk-iowa_pest-control_3",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Keokuk",
+    "city_slug": "keokuk-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Smith Plumbing",
+    "address": "592 Summer St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 212-9200",
+    "website": "https://example.com/smith-plumbing",
+    "rating": 3.1,
+    "review_count": 30,
+    "place_id": "sample_mt-pleasant-iowa_plumber_0",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Johnson Pipe & Repair",
+    "address": "877 Washington Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 717-3358",
+    "website": "https://example.com/johnson-pipe-&-repair",
+    "rating": 4.4,
+    "review_count": 59,
+    "place_id": "sample_mt-pleasant-iowa_plumber_1",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Drain Masters",
+    "address": "1949 Maple St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 692-8248",
+    "website": "https://example.com/burlington-drain-masters",
+    "rating": 4.9,
+    "review_count": 29,
+    "place_id": "sample_mt-pleasant-iowa_plumber_2",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Comfort Air HVAC",
+    "address": "272 High St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 428-1444",
+    "website": "https://example.com/comfort-air-hvac",
+    "rating": 4.3,
+    "review_count": 28,
+    "place_id": "sample_mt-pleasant-iowa_hvac_0",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Iowa Heating & Cooling",
+    "address": "2324 West Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 511-8920",
+    "website": "https://example.com/iowa-heating-&-cooling",
+    "rating": 3.9,
+    "review_count": 77,
+    "place_id": "sample_mt-pleasant-iowa_hvac_1",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Burlington Furnace Co of Mt. Pleasant",
+    "address": "1902 Oak Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 637-1836",
+    "website": "https://example.com/burlington-furnace-co-of-mt.-pleasant",
+    "rating": 3.0,
+    "review_count": 39,
+    "place_id": "sample_mt-pleasant-iowa_hvac_2",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.559201"
+  },
+  {
+    "name": "Johnson County AC",
+    "address": "1177 Agency St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 667-5670",
+    "website": "https://example.com/johnson-county-ac",
+    "rating": 3.1,
+    "review_count": 10,
+    "place_id": "sample_mt-pleasant-iowa_hvac_3",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Climate Control of Mt. Pleasant",
+    "address": "1813 Jefferson St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 847-1589",
+    "website": "https://example.com/keokuk-climate-control-of-mt.-pleasant",
+    "rating": 3.9,
+    "review_count": 5,
+    "place_id": "sample_mt-pleasant-iowa_hvac_4",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Bright Way Electric",
+    "address": "256 Summer St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 912-9251",
+    "website": "https://example.com/bright-way-electric",
+    "rating": 3.4,
+    "review_count": 36,
+    "place_id": "sample_mt-pleasant-iowa_electrician_0",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Electrical Services of Mt. Pleasant",
+    "address": "1686 Oak Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 870-4714",
+    "website": "https://example.com/burlington-electrical-services-of-mt.-pleasant",
+    "rating": 4.7,
+    "review_count": 4,
+    "place_id": "sample_mt-pleasant-iowa_electrician_1",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Electric Co of Mt. Pleasant",
+    "address": "1315 Oak Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 962-5286",
+    "website": "https://example.com/iowa-city-electric-co-of-mt.-pleasant",
+    "rating": 4.3,
+    "review_count": 35,
+    "place_id": "sample_mt-pleasant-iowa_electrician_2",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Wiring Pros of Mt. Pleasant",
+    "address": "2139 High St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 412-9783",
+    "website": "https://example.com/keokuk-wiring-pros-of-mt.-pleasant",
+    "rating": 3.7,
+    "review_count": 16,
+    "place_id": "sample_mt-pleasant-iowa_electrician_3",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Electricians",
+    "address": "1974 West Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 338-8732",
+    "website": "https://example.com/fairfield-electricians",
+    "rating": 4.8,
+    "review_count": 58,
+    "place_id": "sample_mt-pleasant-iowa_electrician_4",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Top Notch Roofing of Mt. Pleasant",
+    "address": "2309 Summer St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 294-1157",
+    "website": "https://example.com/top-notch-roofing-of-mt.-pleasant",
+    "rating": 4.7,
+    "review_count": 32,
+    "place_id": "sample_mt-pleasant-iowa_roofer_0",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Roofing Co of Mt. Pleasant",
+    "address": "1974 Jefferson St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 798-4539",
+    "website": "https://example.com/burlington-roofing-co-of-mt.-pleasant",
+    "rating": 3.4,
+    "review_count": 60,
+    "place_id": "sample_mt-pleasant-iowa_roofer_1",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Roof Masters of Mt. Pleasant",
+    "address": "2221 4th St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 231-4356",
+    "website": "https://example.com/iowa-city-roof-masters-of-mt.-pleasant",
+    "rating": 4.3,
+    "review_count": 45,
+    "place_id": "sample_mt-pleasant-iowa_roofer_2",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Roof & Gutters of Mt. Pleasant",
+    "address": "448 Maple St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 917-6105",
+    "website": "https://example.com/keokuk-roof-&-gutters-of-mt.-pleasant",
+    "rating": 4.1,
+    "review_count": 8,
+    "place_id": "sample_mt-pleasant-iowa_roofer_3",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Able Locksmith of Mt. Pleasant",
+    "address": "1363 Summer St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 858-8758",
+    "website": "https://example.com/able-locksmith-of-mt.-pleasant",
+    "rating": 3.9,
+    "review_count": 69,
+    "place_id": "sample_mt-pleasant-iowa_locksmith_0",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Lock & Key of Mt. Pleasant",
+    "address": "1729 Jefferson St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 942-9252",
+    "website": "https://example.com/burlington-lock-&-key-of-mt.-pleasant",
+    "rating": 3.8,
+    "review_count": 52,
+    "place_id": "sample_mt-pleasant-iowa_locksmith_1",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Locksmiths",
+    "address": "1263 Broadway, Mt. Pleasant, IA 52641",
+    "phone": "(319) 485-2833",
+    "website": "https://example.com/iowa-city-locksmiths",
+    "rating": 4.5,
+    "review_count": 14,
+    "place_id": "sample_mt-pleasant-iowa_locksmith_2",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Safe & Lock of Mt. Pleasant",
+    "address": "264 Agency St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 604-8707",
+    "website": "https://example.com/keokuk-safe-&-lock-of-mt.-pleasant",
+    "rating": 3.2,
+    "review_count": 70,
+    "place_id": "sample_mt-pleasant-iowa_locksmith_3",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Lock Pros of Mt. Pleasant",
+    "address": "2025 West Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 654-5273",
+    "website": "https://example.com/fairfield-lock-pros-of-mt.-pleasant",
+    "rating": 3.9,
+    "review_count": 11,
+    "place_id": "sample_mt-pleasant-iowa_locksmith_4",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Mt. Pleasant Locksmith",
+    "address": "331 Henderson Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 953-5478",
+    "website": "https://example.com/mt.-pleasant-locksmith",
+    "rating": 3.5,
+    "review_count": 34,
+    "place_id": "sample_mt-pleasant-iowa_locksmith_5",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Green Thumb Landscaping",
+    "address": "897 Division St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 652-6931",
+    "website": "https://example.com/green-thumb-landscaping",
+    "rating": 4.8,
+    "review_count": 35,
+    "place_id": "sample_mt-pleasant-iowa_landscaper_0",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Lawn Care of Mt. Pleasant",
+    "address": "1804 Maple St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 494-7589",
+    "website": "https://example.com/burlington-lawn-care-of-mt.-pleasant",
+    "rating": 4.4,
+    "review_count": 42,
+    "place_id": "sample_mt-pleasant-iowa_landscaper_1",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Landscape Design of Mt. Pleasant",
+    "address": "1027 Oak Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 784-1938",
+    "website": "https://example.com/iowa-city-landscape-design-of-mt.-pleasant",
+    "rating": 4.9,
+    "review_count": 34,
+    "place_id": "sample_mt-pleasant-iowa_landscaper_2",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Outdoor Pros",
+    "address": "1908 Agency St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 817-4547",
+    "website": "https://example.com/keokuk-outdoor-pros",
+    "rating": 4.2,
+    "review_count": 35,
+    "place_id": "sample_mt-pleasant-iowa_landscaper_3",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Landscaping of Mt. Pleasant",
+    "address": "133 Spring St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 895-6880",
+    "website": "https://example.com/fairfield-landscaping-of-mt.-pleasant",
+    "rating": 4.9,
+    "review_count": 8,
+    "place_id": "sample_mt-pleasant-iowa_landscaper_4",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Bug Free Pest Control of Mt. Pleasant",
+    "address": "827 Summer St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 226-3267",
+    "website": "https://example.com/bug-free-pest-control-of-mt.-pleasant",
+    "rating": 4.2,
+    "review_count": 52,
+    "place_id": "sample_mt-pleasant-iowa_pest-control_0",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Exterminating of Mt. Pleasant",
+    "address": "619 Henderson Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 674-2224",
+    "website": "https://example.com/burlington-exterminating-of-mt.-pleasant",
+    "rating": 4.5,
+    "review_count": 15,
+    "place_id": "sample_mt-pleasant-iowa_pest-control_1",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Pest Pros of Mt. Pleasant",
+    "address": "226 West Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 427-3018",
+    "website": "https://example.com/iowa-city-pest-pros-of-mt.-pleasant",
+    "rating": 4.4,
+    "review_count": 37,
+    "place_id": "sample_mt-pleasant-iowa_pest-control_2",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Termite & Pest of Mt. Pleasant",
+    "address": "1392 Broadway, Mt. Pleasant, IA 52641",
+    "phone": "(319) 955-5217",
+    "website": "https://example.com/keokuk-termite-&-pest-of-mt.-pleasant",
+    "rating": 4.8,
+    "review_count": 58,
+    "place_id": "sample_mt-pleasant-iowa_pest-control_3",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Pest Management of Mt. Pleasant",
+    "address": "217 Spring St, Mt. Pleasant, IA 52641",
+    "phone": "(319) 524-5267",
+    "website": "https://example.com/fairfield-pest-management-of-mt.-pleasant",
+    "rating": 4.4,
+    "review_count": 26,
+    "place_id": "sample_mt-pleasant-iowa_pest-control_4",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Mt. Pleasant Pest Control",
+    "address": "167 Washington Ave, Mt. Pleasant, IA 52641",
+    "phone": "(319) 353-1966",
+    "website": "https://example.com/mt.-pleasant-pest-control",
+    "rating": 4.6,
+    "review_count": 54,
+    "place_id": "sample_mt-pleasant-iowa_pest-control_5",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Mt. Pleasant",
+    "city_slug": "mt-pleasant-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Smith Plumbing",
+    "address": "1234 Washington Ave, Fairfield, IA 52556",
+    "phone": "(319) 843-8199",
+    "website": "https://example.com/smith-plumbing",
+    "rating": 3.3,
+    "review_count": 18,
+    "place_id": "sample_fairfield-iowa_plumber_0",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Johnson Pipe & Repair of Fairfield",
+    "address": "2265 Spring St, Fairfield, IA 52556",
+    "phone": "(319) 873-7793",
+    "website": "https://example.com/johnson-pipe-&-repair-of-fairfield",
+    "rating": 3.1,
+    "review_count": 75,
+    "place_id": "sample_fairfield-iowa_plumber_1",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Drain Masters",
+    "address": "1587 Broadway, Fairfield, IA 52556",
+    "phone": "(319) 515-9640",
+    "website": "https://example.com/burlington-drain-masters",
+    "rating": 4.4,
+    "review_count": 9,
+    "place_id": "sample_fairfield-iowa_plumber_2",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Plumbing Co of Fairfield",
+    "address": "2132 Agency St, Fairfield, IA 52556",
+    "phone": "(319) 232-3226",
+    "website": "https://example.com/iowa-city-plumbing-co-of-fairfield",
+    "rating": 3.8,
+    "review_count": 8,
+    "place_id": "sample_fairfield-iowa_plumber_3",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Sewer & Drain of Fairfield",
+    "address": "1681 High St, Fairfield, IA 52556",
+    "phone": "(319) 351-7256",
+    "website": "https://example.com/keokuk-sewer-&-drain-of-fairfield",
+    "rating": 4.8,
+    "review_count": 16,
+    "place_id": "sample_fairfield-iowa_plumber_4",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Comfort Air HVAC of Fairfield",
+    "address": "2429 Summer St, Fairfield, IA 52556",
+    "phone": "(319) 510-2739",
+    "website": "https://example.com/comfort-air-hvac-of-fairfield",
+    "rating": 4.0,
+    "review_count": 65,
+    "place_id": "sample_fairfield-iowa_hvac_0",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa Heating & Cooling of Fairfield",
+    "address": "2184 4th St, Fairfield, IA 52556",
+    "phone": "(319) 297-9033",
+    "website": "https://example.com/iowa-heating-&-cooling-of-fairfield",
+    "rating": 3.1,
+    "review_count": 37,
+    "place_id": "sample_fairfield-iowa_hvac_1",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Furnace Co",
+    "address": "1086 Summer St, Fairfield, IA 52556",
+    "phone": "(319) 490-3901",
+    "website": "https://example.com/burlington-furnace-co",
+    "rating": 3.3,
+    "review_count": 68,
+    "place_id": "sample_fairfield-iowa_hvac_2",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Bright Way Electric",
+    "address": "313 Broadway, Fairfield, IA 52556",
+    "phone": "(319) 660-8313",
+    "website": "https://example.com/bright-way-electric",
+    "rating": 3.8,
+    "review_count": 75,
+    "place_id": "sample_fairfield-iowa_electrician_0",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Electrical Services of Fairfield",
+    "address": "573 Jefferson St, Fairfield, IA 52556",
+    "phone": "(319) 349-5144",
+    "website": "https://example.com/burlington-electrical-services-of-fairfield",
+    "rating": 4.2,
+    "review_count": 66,
+    "place_id": "sample_fairfield-iowa_electrician_1",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Electric Co of Fairfield",
+    "address": "346 West Ave, Fairfield, IA 52556",
+    "phone": "(319) 974-9621",
+    "website": "https://example.com/iowa-city-electric-co-of-fairfield",
+    "rating": 3.0,
+    "review_count": 11,
+    "place_id": "sample_fairfield-iowa_electrician_2",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Wiring Pros of Fairfield",
+    "address": "890 Jefferson St, Fairfield, IA 52556",
+    "phone": "(319) 480-6315",
+    "website": "https://example.com/keokuk-wiring-pros-of-fairfield",
+    "rating": 4.1,
+    "review_count": 20,
+    "place_id": "sample_fairfield-iowa_electrician_3",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Electricians",
+    "address": "1814 4th St, Fairfield, IA 52556",
+    "phone": "(319) 419-5700",
+    "website": "https://example.com/fairfield-electricians",
+    "rating": 4.5,
+    "review_count": 36,
+    "place_id": "sample_fairfield-iowa_electrician_4",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Top Notch Roofing of Fairfield",
+    "address": "2068 Summer St, Fairfield, IA 52556",
+    "phone": "(319) 304-6200",
+    "website": "https://example.com/top-notch-roofing-of-fairfield",
+    "rating": 3.7,
+    "review_count": 23,
+    "place_id": "sample_fairfield-iowa_roofer_0",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Roofing Co",
+    "address": "2193 Division St, Fairfield, IA 52556",
+    "phone": "(319) 531-8339",
+    "website": "https://example.com/burlington-roofing-co",
+    "rating": 3.2,
+    "review_count": 70,
+    "place_id": "sample_fairfield-iowa_roofer_1",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Roof Masters of Fairfield",
+    "address": "1435 Jefferson St, Fairfield, IA 52556",
+    "phone": "(319) 876-3199",
+    "website": "https://example.com/iowa-city-roof-masters-of-fairfield",
+    "rating": 4.8,
+    "review_count": 10,
+    "place_id": "sample_fairfield-iowa_roofer_2",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Roof & Gutters",
+    "address": "2428 Jefferson St, Fairfield, IA 52556",
+    "phone": "(319) 866-4012",
+    "website": "https://example.com/keokuk-roof-&-gutters",
+    "rating": 3.3,
+    "review_count": 74,
+    "place_id": "sample_fairfield-iowa_roofer_3",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Able Locksmith of Fairfield",
+    "address": "1132 Jefferson St, Fairfield, IA 52556",
+    "phone": "(319) 216-2065",
+    "website": "https://example.com/able-locksmith-of-fairfield",
+    "rating": 4.4,
+    "review_count": 42,
+    "place_id": "sample_fairfield-iowa_locksmith_0",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Lock & Key",
+    "address": "640 Agency St, Fairfield, IA 52556",
+    "phone": "(319) 593-3009",
+    "website": "https://example.com/burlington-lock-&-key",
+    "rating": 3.6,
+    "review_count": 31,
+    "place_id": "sample_fairfield-iowa_locksmith_1",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Locksmiths",
+    "address": "867 Main St, Fairfield, IA 52556",
+    "phone": "(319) 429-3189",
+    "website": "https://example.com/iowa-city-locksmiths",
+    "rating": 3.9,
+    "review_count": 11,
+    "place_id": "sample_fairfield-iowa_locksmith_2",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Safe & Lock",
+    "address": "1290 Jefferson St, Fairfield, IA 52556",
+    "phone": "(319) 875-8795",
+    "website": "https://example.com/keokuk-safe-&-lock",
+    "rating": 4.0,
+    "review_count": 13,
+    "place_id": "sample_fairfield-iowa_locksmith_3",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Lock Pros",
+    "address": "2338 4th St, Fairfield, IA 52556",
+    "phone": "(319) 991-9343",
+    "website": "https://example.com/fairfield-lock-pros",
+    "rating": 4.9,
+    "review_count": 19,
+    "place_id": "sample_fairfield-iowa_locksmith_4",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Mt. Pleasant Locksmith",
+    "address": "2223 Agency St, Fairfield, IA 52556",
+    "phone": "(319) 313-8010",
+    "website": "https://example.com/mt.-pleasant-locksmith",
+    "rating": 4.3,
+    "review_count": 9,
+    "place_id": "sample_fairfield-iowa_locksmith_5",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Green Thumb Landscaping of Fairfield",
+    "address": "882 West Ave, Fairfield, IA 52556",
+    "phone": "(319) 581-4937",
+    "website": "https://example.com/green-thumb-landscaping-of-fairfield",
+    "rating": 3.7,
+    "review_count": 42,
+    "place_id": "sample_fairfield-iowa_landscaper_0",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Lawn Care of Fairfield",
+    "address": "2421 Jefferson St, Fairfield, IA 52556",
+    "phone": "(319) 940-1779",
+    "website": "https://example.com/burlington-lawn-care-of-fairfield",
+    "rating": 3.0,
+    "review_count": 29,
+    "place_id": "sample_fairfield-iowa_landscaper_1",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Landscape Design of Fairfield",
+    "address": "1913 Spring St, Fairfield, IA 52556",
+    "phone": "(319) 861-6552",
+    "website": "https://example.com/iowa-city-landscape-design-of-fairfield",
+    "rating": 4.7,
+    "review_count": 54,
+    "place_id": "sample_fairfield-iowa_landscaper_2",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Outdoor Pros",
+    "address": "2388 Washington Ave, Fairfield, IA 52556",
+    "phone": "(319) 668-5490",
+    "website": "https://example.com/keokuk-outdoor-pros",
+    "rating": 3.8,
+    "review_count": 58,
+    "place_id": "sample_fairfield-iowa_landscaper_3",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Landscaping",
+    "address": "1237 3rd St, Fairfield, IA 52556",
+    "phone": "(319) 833-2457",
+    "website": "https://example.com/fairfield-landscaping",
+    "rating": 4.2,
+    "review_count": 13,
+    "place_id": "sample_fairfield-iowa_landscaper_4",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Bug Free Pest Control of Fairfield",
+    "address": "2153 West Ave, Fairfield, IA 52556",
+    "phone": "(319) 445-7781",
+    "website": "https://example.com/bug-free-pest-control-of-fairfield",
+    "rating": 3.6,
+    "review_count": 27,
+    "place_id": "sample_fairfield-iowa_pest-control_0",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Exterminating",
+    "address": "1373 Summer St, Fairfield, IA 52556",
+    "phone": "(319) 243-3346",
+    "website": "https://example.com/burlington-exterminating",
+    "rating": 4.1,
+    "review_count": 54,
+    "place_id": "sample_fairfield-iowa_pest-control_1",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Pest Pros of Fairfield",
+    "address": "2216 West Ave, Fairfield, IA 52556",
+    "phone": "(319) 589-6832",
+    "website": "https://example.com/iowa-city-pest-pros-of-fairfield",
+    "rating": 3.2,
+    "review_count": 54,
+    "place_id": "sample_fairfield-iowa_pest-control_2",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Termite & Pest of Fairfield",
+    "address": "1431 Jefferson St, Fairfield, IA 52556",
+    "phone": "(319) 878-5539",
+    "website": "https://example.com/keokuk-termite-&-pest-of-fairfield",
+    "rating": 3.4,
+    "review_count": 52,
+    "place_id": "sample_fairfield-iowa_pest-control_3",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Pest Management",
+    "address": "644 Broadway, Fairfield, IA 52556",
+    "phone": "(319) 911-9250",
+    "website": "https://example.com/fairfield-pest-management",
+    "rating": 4.2,
+    "review_count": 54,
+    "place_id": "sample_fairfield-iowa_pest-control_4",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Fairfield",
+    "city_slug": "fairfield-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Smith Plumbing of Washington",
+    "address": "1642 Agency St, Washington, IA 52353",
+    "phone": "(319) 405-5407",
+    "website": "https://example.com/smith-plumbing-of-washington",
+    "rating": 4.6,
+    "review_count": 75,
+    "place_id": "sample_washington-iowa_plumber_0",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Johnson Pipe & Repair",
+    "address": "1679 Washington Ave, Washington, IA 52353",
+    "phone": "(319) 854-7817",
+    "website": "https://example.com/johnson-pipe-&-repair",
+    "rating": 3.7,
+    "review_count": 48,
+    "place_id": "sample_washington-iowa_plumber_1",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Drain Masters",
+    "address": "1513 Washington Ave, Washington, IA 52353",
+    "phone": "(319) 592-5273",
+    "website": "https://example.com/burlington-drain-masters",
+    "rating": 4.5,
+    "review_count": 18,
+    "place_id": "sample_washington-iowa_plumber_2",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Plumbing Co",
+    "address": "2346 3rd St, Washington, IA 52353",
+    "phone": "(319) 390-3557",
+    "website": "https://example.com/iowa-city-plumbing-co",
+    "rating": 3.1,
+    "review_count": 43,
+    "place_id": "sample_washington-iowa_plumber_3",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Sewer & Drain",
+    "address": "105 Summer St, Washington, IA 52353",
+    "phone": "(319) 860-7028",
+    "website": "https://example.com/keokuk-sewer-&-drain",
+    "rating": 3.9,
+    "review_count": 24,
+    "place_id": "sample_washington-iowa_plumber_4",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Plumbing Pros",
+    "address": "1933 4th St, Washington, IA 52353",
+    "phone": "(319) 800-8133",
+    "website": "https://example.com/fairfield-plumbing-pros",
+    "rating": 3.0,
+    "review_count": 17,
+    "place_id": "sample_washington-iowa_plumber_5",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Comfort Air HVAC",
+    "address": "1441 Summer St, Washington, IA 52353",
+    "phone": "(319) 663-6676",
+    "website": "https://example.com/comfort-air-hvac",
+    "rating": 3.5,
+    "review_count": 28,
+    "place_id": "sample_washington-iowa_hvac_0",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa Heating & Cooling",
+    "address": "1080 West Ave, Washington, IA 52353",
+    "phone": "(319) 549-5350",
+    "website": "https://example.com/iowa-heating-&-cooling",
+    "rating": 4.3,
+    "review_count": 6,
+    "place_id": "sample_washington-iowa_hvac_1",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Furnace Co of Washington",
+    "address": "1481 4th St, Washington, IA 52353",
+    "phone": "(319) 470-9135",
+    "website": "https://example.com/burlington-furnace-co-of-washington",
+    "rating": 4.4,
+    "review_count": 44,
+    "place_id": "sample_washington-iowa_hvac_2",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Bright Way Electric of Washington",
+    "address": "744 Division St, Washington, IA 52353",
+    "phone": "(319) 769-6556",
+    "website": "https://example.com/bright-way-electric-of-washington",
+    "rating": 3.4,
+    "review_count": 12,
+    "place_id": "sample_washington-iowa_electrician_0",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Electrical Services of Washington",
+    "address": "1826 Washington Ave, Washington, IA 52353",
+    "phone": "(319) 893-9668",
+    "website": "https://example.com/burlington-electrical-services-of-washington",
+    "rating": 4.2,
+    "review_count": 25,
+    "place_id": "sample_washington-iowa_electrician_1",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Electric Co of Washington",
+    "address": "1391 Henderson Ave, Washington, IA 52353",
+    "phone": "(319) 646-7476",
+    "website": "https://example.com/iowa-city-electric-co-of-washington",
+    "rating": 4.2,
+    "review_count": 79,
+    "place_id": "sample_washington-iowa_electrician_2",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Wiring Pros",
+    "address": "602 Washington Ave, Washington, IA 52353",
+    "phone": "(319) 945-8835",
+    "website": "https://example.com/keokuk-wiring-pros",
+    "rating": 3.7,
+    "review_count": 25,
+    "place_id": "sample_washington-iowa_electrician_3",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Top Notch Roofing of Washington",
+    "address": "1909 Washington Ave, Washington, IA 52353",
+    "phone": "(319) 889-2745",
+    "website": "https://example.com/top-notch-roofing-of-washington",
+    "rating": 4.4,
+    "review_count": 34,
+    "place_id": "sample_washington-iowa_roofer_0",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Roofing Co of Washington",
+    "address": "707 Washington Ave, Washington, IA 52353",
+    "phone": "(319) 915-9463",
+    "website": "https://example.com/burlington-roofing-co-of-washington",
+    "rating": 4.8,
+    "review_count": 6,
+    "place_id": "sample_washington-iowa_roofer_1",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Roof Masters",
+    "address": "1198 Washington Ave, Washington, IA 52353",
+    "phone": "(319) 388-8291",
+    "website": "https://example.com/iowa-city-roof-masters",
+    "rating": 4.4,
+    "review_count": 44,
+    "place_id": "sample_washington-iowa_roofer_2",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Able Locksmith",
+    "address": "256 Henderson Ave, Washington, IA 52353",
+    "phone": "(319) 969-6934",
+    "website": "https://example.com/able-locksmith",
+    "rating": 5.0,
+    "review_count": 67,
+    "place_id": "sample_washington-iowa_locksmith_0",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Lock & Key",
+    "address": "2300 Agency St, Washington, IA 52353",
+    "phone": "(319) 586-9950",
+    "website": "https://example.com/burlington-lock-&-key",
+    "rating": 3.1,
+    "review_count": 12,
+    "place_id": "sample_washington-iowa_locksmith_1",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Locksmiths",
+    "address": "2071 High St, Washington, IA 52353",
+    "phone": "(319) 744-7085",
+    "website": "https://example.com/iowa-city-locksmiths",
+    "rating": 4.0,
+    "review_count": 47,
+    "place_id": "sample_washington-iowa_locksmith_2",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Green Thumb Landscaping of Washington",
+    "address": "298 Main St, Washington, IA 52353",
+    "phone": "(319) 581-9591",
+    "website": "https://example.com/green-thumb-landscaping-of-washington",
+    "rating": 4.9,
+    "review_count": 36,
+    "place_id": "sample_washington-iowa_landscaper_0",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Lawn Care of Washington",
+    "address": "160 3rd St, Washington, IA 52353",
+    "phone": "(319) 291-1815",
+    "website": "https://example.com/burlington-lawn-care-of-washington",
+    "rating": 4.9,
+    "review_count": 8,
+    "place_id": "sample_washington-iowa_landscaper_1",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Landscape Design of Washington",
+    "address": "2238 Henderson Ave, Washington, IA 52353",
+    "phone": "(319) 588-8000",
+    "website": "https://example.com/iowa-city-landscape-design-of-washington",
+    "rating": 4.4,
+    "review_count": 17,
+    "place_id": "sample_washington-iowa_landscaper_2",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Bug Free Pest Control",
+    "address": "2342 Spring St, Washington, IA 52353",
+    "phone": "(319) 999-5442",
+    "website": "https://example.com/bug-free-pest-control",
+    "rating": 3.4,
+    "review_count": 39,
+    "place_id": "sample_washington-iowa_pest-control_0",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Exterminating of Washington",
+    "address": "1005 Oak Ave, Washington, IA 52353",
+    "phone": "(319) 678-6011",
+    "website": "https://example.com/burlington-exterminating-of-washington",
+    "rating": 3.5,
+    "review_count": 9,
+    "place_id": "sample_washington-iowa_pest-control_1",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Pest Pros",
+    "address": "2193 Summer St, Washington, IA 52353",
+    "phone": "(319) 987-7087",
+    "website": "https://example.com/iowa-city-pest-pros",
+    "rating": 4.3,
+    "review_count": 23,
+    "place_id": "sample_washington-iowa_pest-control_2",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Washington",
+    "city_slug": "washington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Smith Plumbing",
+    "address": "1116 Washington Ave, West Burlington, IA 52655",
+    "phone": "(319) 529-4485",
+    "website": "https://example.com/smith-plumbing",
+    "rating": 4.3,
+    "review_count": 18,
+    "place_id": "sample_west-burlington-iowa_plumber_0",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Johnson Pipe & Repair of West Burlington",
+    "address": "1349 High St, West Burlington, IA 52655",
+    "phone": "(319) 949-2971",
+    "website": "https://example.com/johnson-pipe-&-repair-of-west-burlington",
+    "rating": 4.3,
+    "review_count": 52,
+    "place_id": "sample_west-burlington-iowa_plumber_1",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Drain Masters of West Burlington",
+    "address": "2269 Washington Ave, West Burlington, IA 52655",
+    "phone": "(319) 338-6902",
+    "website": "https://example.com/burlington-drain-masters-of-west-burlington",
+    "rating": 3.1,
+    "review_count": 19,
+    "place_id": "sample_west-burlington-iowa_plumber_2",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Plumbing Co",
+    "address": "1621 Broadway, West Burlington, IA 52655",
+    "phone": "(319) 640-6335",
+    "website": "https://example.com/iowa-city-plumbing-co",
+    "rating": 4.4,
+    "review_count": 61,
+    "place_id": "sample_west-burlington-iowa_plumber_3",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Comfort Air HVAC of West Burlington",
+    "address": "2500 High St, West Burlington, IA 52655",
+    "phone": "(319) 484-1296",
+    "website": "https://example.com/comfort-air-hvac-of-west-burlington",
+    "rating": 3.1,
+    "review_count": 80,
+    "place_id": "sample_west-burlington-iowa_hvac_0",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa Heating & Cooling of West Burlington",
+    "address": "894 High St, West Burlington, IA 52655",
+    "phone": "(319) 323-2498",
+    "website": "https://example.com/iowa-heating-&-cooling-of-west-burlington",
+    "rating": 3.5,
+    "review_count": 32,
+    "place_id": "sample_west-burlington-iowa_hvac_1",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Furnace Co of West Burlington",
+    "address": "722 Maple St, West Burlington, IA 52655",
+    "phone": "(319) 609-8109",
+    "website": "https://example.com/burlington-furnace-co-of-west-burlington",
+    "rating": 3.4,
+    "review_count": 37,
+    "place_id": "sample_west-burlington-iowa_hvac_2",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Johnson County AC of West Burlington",
+    "address": "724 Henderson Ave, West Burlington, IA 52655",
+    "phone": "(319) 425-7282",
+    "website": "https://example.com/johnson-county-ac-of-west-burlington",
+    "rating": 3.9,
+    "review_count": 12,
+    "place_id": "sample_west-burlington-iowa_hvac_3",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Climate Control of West Burlington",
+    "address": "2019 Summer St, West Burlington, IA 52655",
+    "phone": "(319) 633-5626",
+    "website": "https://example.com/keokuk-climate-control-of-west-burlington",
+    "rating": 3.0,
+    "review_count": 28,
+    "place_id": "sample_west-burlington-iowa_hvac_4",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Bright Way Electric of West Burlington",
+    "address": "686 4th St, West Burlington, IA 52655",
+    "phone": "(319) 511-5920",
+    "website": "https://example.com/bright-way-electric-of-west-burlington",
+    "rating": 3.4,
+    "review_count": 7,
+    "place_id": "sample_west-burlington-iowa_electrician_0",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Electrical Services of West Burlington",
+    "address": "433 Jefferson St, West Burlington, IA 52655",
+    "phone": "(319) 474-3130",
+    "website": "https://example.com/burlington-electrical-services-of-west-burlington",
+    "rating": 3.0,
+    "review_count": 18,
+    "place_id": "sample_west-burlington-iowa_electrician_1",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Electric Co of West Burlington",
+    "address": "2458 High St, West Burlington, IA 52655",
+    "phone": "(319) 797-5483",
+    "website": "https://example.com/iowa-city-electric-co-of-west-burlington",
+    "rating": 3.9,
+    "review_count": 75,
+    "place_id": "sample_west-burlington-iowa_electrician_2",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Wiring Pros",
+    "address": "2193 Main St, West Burlington, IA 52655",
+    "phone": "(319) 822-3417",
+    "website": "https://example.com/keokuk-wiring-pros",
+    "rating": 4.6,
+    "review_count": 49,
+    "place_id": "sample_west-burlington-iowa_electrician_3",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Electricians",
+    "address": "951 Agency St, West Burlington, IA 52655",
+    "phone": "(319) 797-4216",
+    "website": "https://example.com/fairfield-electricians",
+    "rating": 4.1,
+    "review_count": 18,
+    "place_id": "sample_west-burlington-iowa_electrician_4",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Top Notch Roofing of West Burlington",
+    "address": "1010 Maple St, West Burlington, IA 52655",
+    "phone": "(319) 608-5150",
+    "website": "https://example.com/top-notch-roofing-of-west-burlington",
+    "rating": 3.2,
+    "review_count": 68,
+    "place_id": "sample_west-burlington-iowa_roofer_0",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Roofing Co of West Burlington",
+    "address": "1223 3rd St, West Burlington, IA 52655",
+    "phone": "(319) 455-7611",
+    "website": "https://example.com/burlington-roofing-co-of-west-burlington",
+    "rating": 3.7,
+    "review_count": 5,
+    "place_id": "sample_west-burlington-iowa_roofer_1",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Roof Masters of West Burlington",
+    "address": "1200 Summer St, West Burlington, IA 52655",
+    "phone": "(319) 931-4442",
+    "website": "https://example.com/iowa-city-roof-masters-of-west-burlington",
+    "rating": 3.3,
+    "review_count": 18,
+    "place_id": "sample_west-burlington-iowa_roofer_2",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Roof & Gutters",
+    "address": "640 Oak Ave, West Burlington, IA 52655",
+    "phone": "(319) 658-1146",
+    "website": "https://example.com/keokuk-roof-&-gutters",
+    "rating": 3.0,
+    "review_count": 45,
+    "place_id": "sample_west-burlington-iowa_roofer_3",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Roofing Pros of West Burlington",
+    "address": "1976 Washington Ave, West Burlington, IA 52655",
+    "phone": "(319) 542-6615",
+    "website": "https://example.com/fairfield-roofing-pros-of-west-burlington",
+    "rating": 3.3,
+    "review_count": 24,
+    "place_id": "sample_west-burlington-iowa_roofer_4",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Able Locksmith",
+    "address": "1031 Division St, West Burlington, IA 52655",
+    "phone": "(319) 711-6007",
+    "website": "https://example.com/able-locksmith",
+    "rating": 4.1,
+    "review_count": 12,
+    "place_id": "sample_west-burlington-iowa_locksmith_0",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Lock & Key",
+    "address": "288 3rd St, West Burlington, IA 52655",
+    "phone": "(319) 845-7970",
+    "website": "https://example.com/burlington-lock-&-key",
+    "rating": 4.9,
+    "review_count": 3,
+    "place_id": "sample_west-burlington-iowa_locksmith_1",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Locksmiths of West Burlington",
+    "address": "112 Henderson Ave, West Burlington, IA 52655",
+    "phone": "(319) 567-1660",
+    "website": "https://example.com/iowa-city-locksmiths-of-west-burlington",
+    "rating": 3.3,
+    "review_count": 22,
+    "place_id": "sample_west-burlington-iowa_locksmith_2",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Safe & Lock of West Burlington",
+    "address": "400 Henderson Ave, West Burlington, IA 52655",
+    "phone": "(319) 388-8345",
+    "website": "https://example.com/keokuk-safe-&-lock-of-west-burlington",
+    "rating": 4.9,
+    "review_count": 68,
+    "place_id": "sample_west-burlington-iowa_locksmith_3",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Green Thumb Landscaping",
+    "address": "444 Jefferson St, West Burlington, IA 52655",
+    "phone": "(319) 673-7289",
+    "website": "https://example.com/green-thumb-landscaping",
+    "rating": 4.6,
+    "review_count": 62,
+    "place_id": "sample_west-burlington-iowa_landscaper_0",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Lawn Care",
+    "address": "904 West Ave, West Burlington, IA 52655",
+    "phone": "(319) 778-6421",
+    "website": "https://example.com/burlington-lawn-care",
+    "rating": 4.5,
+    "review_count": 31,
+    "place_id": "sample_west-burlington-iowa_landscaper_1",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Landscape Design",
+    "address": "1779 Summer St, West Burlington, IA 52655",
+    "phone": "(319) 296-6566",
+    "website": "https://example.com/iowa-city-landscape-design",
+    "rating": 3.4,
+    "review_count": 13,
+    "place_id": "sample_west-burlington-iowa_landscaper_2",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Outdoor Pros of West Burlington",
+    "address": "2202 Broadway, West Burlington, IA 52655",
+    "phone": "(319) 458-1604",
+    "website": "https://example.com/keokuk-outdoor-pros-of-west-burlington",
+    "rating": 3.5,
+    "review_count": 44,
+    "place_id": "sample_west-burlington-iowa_landscaper_3",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Landscaping of West Burlington",
+    "address": "506 Oak Ave, West Burlington, IA 52655",
+    "phone": "(319) 935-4657",
+    "website": "https://example.com/fairfield-landscaping-of-west-burlington",
+    "rating": 4.1,
+    "review_count": 55,
+    "place_id": "sample_west-burlington-iowa_landscaper_4",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Mt. Pleasant Lawn & Garden of West Burlington",
+    "address": "205 Henderson Ave, West Burlington, IA 52655",
+    "phone": "(319) 484-6962",
+    "website": "https://example.com/mt.-pleasant-lawn-&-garden-of-west-burlington",
+    "rating": 4.1,
+    "review_count": 27,
+    "place_id": "sample_west-burlington-iowa_landscaper_5",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Bug Free Pest Control",
+    "address": "1219 Washington Ave, West Burlington, IA 52655",
+    "phone": "(319) 974-4930",
+    "website": "https://example.com/bug-free-pest-control",
+    "rating": 4.5,
+    "review_count": 44,
+    "place_id": "sample_west-burlington-iowa_pest-control_0",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Exterminating",
+    "address": "562 Jefferson St, West Burlington, IA 52655",
+    "phone": "(319) 836-6580",
+    "website": "https://example.com/burlington-exterminating",
+    "rating": 3.0,
+    "review_count": 21,
+    "place_id": "sample_west-burlington-iowa_pest-control_1",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Pest Pros",
+    "address": "352 4th St, West Burlington, IA 52655",
+    "phone": "(319) 608-6890",
+    "website": "https://example.com/iowa-city-pest-pros",
+    "rating": 5.0,
+    "review_count": 44,
+    "place_id": "sample_west-burlington-iowa_pest-control_2",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Termite & Pest",
+    "address": "1229 Oak Ave, West Burlington, IA 52655",
+    "phone": "(319) 905-2805",
+    "website": "https://example.com/keokuk-termite-&-pest",
+    "rating": 3.9,
+    "review_count": 34,
+    "place_id": "sample_west-burlington-iowa_pest-control_3",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Fairfield Pest Management of West Burlington",
+    "address": "1103 Spring St, West Burlington, IA 52655",
+    "phone": "(319) 504-5192",
+    "website": "https://example.com/fairfield-pest-management-of-west-burlington",
+    "rating": 4.0,
+    "review_count": 51,
+    "place_id": "sample_west-burlington-iowa_pest-control_4",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Mt. Pleasant Pest Control",
+    "address": "1884 Summer St, West Burlington, IA 52655",
+    "phone": "(319) 315-5377",
+    "website": "https://example.com/mt.-pleasant-pest-control",
+    "rating": 3.6,
+    "review_count": 12,
+    "place_id": "sample_west-burlington-iowa_pest-control_5",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "West Burlington",
+    "city_slug": "west-burlington-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Smith Plumbing of Danville",
+    "address": "831 Oak Ave, Danville, IA 52623",
+    "phone": "(319) 757-8463",
+    "website": "https://example.com/smith-plumbing-of-danville",
+    "rating": 3.2,
+    "review_count": 28,
+    "place_id": "sample_danville-iowa_plumber_0",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Johnson Pipe & Repair of Danville",
+    "address": "1202 Jefferson St, Danville, IA 52623",
+    "phone": "(319) 670-3168",
+    "website": "https://example.com/johnson-pipe-&-repair-of-danville",
+    "rating": 4.1,
+    "review_count": 22,
+    "place_id": "sample_danville-iowa_plumber_1",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Drain Masters",
+    "address": "544 Main St, Danville, IA 52623",
+    "phone": "(319) 670-4470",
+    "website": "https://example.com/burlington-drain-masters",
+    "rating": 3.1,
+    "review_count": 61,
+    "place_id": "sample_danville-iowa_plumber_2",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Plumbing Co of Danville",
+    "address": "1365 4th St, Danville, IA 52623",
+    "phone": "(319) 235-7688",
+    "website": "https://example.com/iowa-city-plumbing-co-of-danville",
+    "rating": 3.7,
+    "review_count": 38,
+    "place_id": "sample_danville-iowa_plumber_3",
+    "types": [
+      "plumber",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "plumber",
+    "category_name": "Plumber",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Comfort Air HVAC of Danville",
+    "address": "1126 Agency St, Danville, IA 52623",
+    "phone": "(319) 522-1243",
+    "website": "https://example.com/comfort-air-hvac-of-danville",
+    "rating": 3.8,
+    "review_count": 43,
+    "place_id": "sample_danville-iowa_hvac_0",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa Heating & Cooling of Danville",
+    "address": "1827 Jefferson St, Danville, IA 52623",
+    "phone": "(319) 381-9553",
+    "website": "https://example.com/iowa-heating-&-cooling-of-danville",
+    "rating": 4.2,
+    "review_count": 40,
+    "place_id": "sample_danville-iowa_hvac_1",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Furnace Co of Danville",
+    "address": "2013 Broadway, Danville, IA 52623",
+    "phone": "(319) 509-5371",
+    "website": "https://example.com/burlington-furnace-co-of-danville",
+    "rating": 3.0,
+    "review_count": 4,
+    "place_id": "sample_danville-iowa_hvac_2",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Johnson County AC",
+    "address": "2065 3rd St, Danville, IA 52623",
+    "phone": "(319) 814-5521",
+    "website": "https://example.com/johnson-county-ac",
+    "rating": 4.3,
+    "review_count": 20,
+    "place_id": "sample_danville-iowa_hvac_3",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Keokuk Climate Control of Danville",
+    "address": "484 Oak Ave, Danville, IA 52623",
+    "phone": "(319) 228-1136",
+    "website": "https://example.com/keokuk-climate-control-of-danville",
+    "rating": 3.2,
+    "review_count": 41,
+    "place_id": "sample_danville-iowa_hvac_4",
+    "types": [
+      "hvac",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "hvac",
+    "category_name": "HVAC",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Bright Way Electric of Danville",
+    "address": "800 Spring St, Danville, IA 52623",
+    "phone": "(319) 568-8830",
+    "website": "https://example.com/bright-way-electric-of-danville",
+    "rating": 4.2,
+    "review_count": 44,
+    "place_id": "sample_danville-iowa_electrician_0",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Burlington Electrical Services",
+    "address": "1994 Washington Ave, Danville, IA 52623",
+    "phone": "(319) 373-1833",
+    "website": "https://example.com/burlington-electrical-services",
+    "rating": 3.9,
+    "review_count": 17,
+    "place_id": "sample_danville-iowa_electrician_1",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.560198"
+  },
+  {
+    "name": "Iowa City Electric Co of Danville",
+    "address": "970 Agency St, Danville, IA 52623",
+    "phone": "(319) 767-7427",
+    "website": "https://example.com/iowa-city-electric-co-of-danville",
+    "rating": 3.4,
+    "review_count": 11,
+    "place_id": "sample_danville-iowa_electrician_2",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Keokuk Wiring Pros of Danville",
+    "address": "2179 4th St, Danville, IA 52623",
+    "phone": "(319) 246-9763",
+    "website": "https://example.com/keokuk-wiring-pros-of-danville",
+    "rating": 3.6,
+    "review_count": 5,
+    "place_id": "sample_danville-iowa_electrician_3",
+    "types": [
+      "electrician",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "electrician",
+    "category_name": "Electrician",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Top Notch Roofing of Danville",
+    "address": "2446 Summer St, Danville, IA 52623",
+    "phone": "(319) 288-2118",
+    "website": "https://example.com/top-notch-roofing-of-danville",
+    "rating": 4.2,
+    "review_count": 39,
+    "place_id": "sample_danville-iowa_roofer_0",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Burlington Roofing Co of Danville",
+    "address": "1936 Oak Ave, Danville, IA 52623",
+    "phone": "(319) 376-9711",
+    "website": "https://example.com/burlington-roofing-co-of-danville",
+    "rating": 4.7,
+    "review_count": 46,
+    "place_id": "sample_danville-iowa_roofer_1",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Iowa City Roof Masters of Danville",
+    "address": "1745 3rd St, Danville, IA 52623",
+    "phone": "(319) 396-9156",
+    "website": "https://example.com/iowa-city-roof-masters-of-danville",
+    "rating": 3.8,
+    "review_count": 15,
+    "place_id": "sample_danville-iowa_roofer_2",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Keokuk Roof & Gutters of Danville",
+    "address": "2024 Spring St, Danville, IA 52623",
+    "phone": "(319) 273-9572",
+    "website": "https://example.com/keokuk-roof-&-gutters-of-danville",
+    "rating": 3.4,
+    "review_count": 15,
+    "place_id": "sample_danville-iowa_roofer_3",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Fairfield Roofing Pros",
+    "address": "528 4th St, Danville, IA 52623",
+    "phone": "(319) 355-1306",
+    "website": "https://example.com/fairfield-roofing-pros",
+    "rating": 4.4,
+    "review_count": 12,
+    "place_id": "sample_danville-iowa_roofer_4",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Mt. Pleasant Roofing of Danville",
+    "address": "669 Division St, Danville, IA 52623",
+    "phone": "(319) 239-2424",
+    "website": "https://example.com/mt.-pleasant-roofing-of-danville",
+    "rating": 4.7,
+    "review_count": 79,
+    "place_id": "sample_danville-iowa_roofer_5",
+    "types": [
+      "roofer",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "roofer",
+    "category_name": "Roofer",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Able Locksmith of Danville",
+    "address": "2200 Summer St, Danville, IA 52623",
+    "phone": "(319) 517-4117",
+    "website": "https://example.com/able-locksmith-of-danville",
+    "rating": 3.8,
+    "review_count": 13,
+    "place_id": "sample_danville-iowa_locksmith_0",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Burlington Lock & Key",
+    "address": "2120 Summer St, Danville, IA 52623",
+    "phone": "(319) 894-4748",
+    "website": "https://example.com/burlington-lock-&-key",
+    "rating": 3.7,
+    "review_count": 12,
+    "place_id": "sample_danville-iowa_locksmith_1",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Iowa City Locksmiths",
+    "address": "815 Washington Ave, Danville, IA 52623",
+    "phone": "(319) 983-9107",
+    "website": "https://example.com/iowa-city-locksmiths",
+    "rating": 3.9,
+    "review_count": 76,
+    "place_id": "sample_danville-iowa_locksmith_2",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Keokuk Safe & Lock of Danville",
+    "address": "250 3rd St, Danville, IA 52623",
+    "phone": "(319) 379-4534",
+    "website": "https://example.com/keokuk-safe-&-lock-of-danville",
+    "rating": 4.6,
+    "review_count": 36,
+    "place_id": "sample_danville-iowa_locksmith_3",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Fairfield Lock Pros",
+    "address": "1260 Spring St, Danville, IA 52623",
+    "phone": "(319) 962-1689",
+    "website": "https://example.com/fairfield-lock-pros",
+    "rating": 4.3,
+    "review_count": 49,
+    "place_id": "sample_danville-iowa_locksmith_4",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Mt. Pleasant Locksmith of Danville",
+    "address": "837 Broadway, Danville, IA 52623",
+    "phone": "(319) 723-7800",
+    "website": "https://example.com/mt.-pleasant-locksmith-of-danville",
+    "rating": 3.1,
+    "review_count": 71,
+    "place_id": "sample_danville-iowa_locksmith_5",
+    "types": [
+      "locksmith",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "locksmith",
+    "category_name": "Locksmith",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Green Thumb Landscaping",
+    "address": "1181 Broadway, Danville, IA 52623",
+    "phone": "(319) 673-6995",
+    "website": "https://example.com/green-thumb-landscaping",
+    "rating": 4.6,
+    "review_count": 48,
+    "place_id": "sample_danville-iowa_landscaper_0",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Burlington Lawn Care of Danville",
+    "address": "952 Washington Ave, Danville, IA 52623",
+    "phone": "(319) 218-4895",
+    "website": "https://example.com/burlington-lawn-care-of-danville",
+    "rating": 3.8,
+    "review_count": 75,
+    "place_id": "sample_danville-iowa_landscaper_1",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Iowa City Landscape Design",
+    "address": "1674 4th St, Danville, IA 52623",
+    "phone": "(319) 651-6385",
+    "website": "https://example.com/iowa-city-landscape-design",
+    "rating": 4.4,
+    "review_count": 65,
+    "place_id": "sample_danville-iowa_landscaper_2",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Keokuk Outdoor Pros",
+    "address": "574 Broadway, Danville, IA 52623",
+    "phone": "(319) 624-9883",
+    "website": "https://example.com/keokuk-outdoor-pros",
+    "rating": 3.5,
+    "review_count": 28,
+    "place_id": "sample_danville-iowa_landscaper_3",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Fairfield Landscaping",
+    "address": "2126 Henderson Ave, Danville, IA 52623",
+    "phone": "(319) 593-3907",
+    "website": "https://example.com/fairfield-landscaping",
+    "rating": 3.8,
+    "review_count": 76,
+    "place_id": "sample_danville-iowa_landscaper_4",
+    "types": [
+      "landscaper",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "landscaper",
+    "category_name": "Landscaper",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Bug Free Pest Control of Danville",
+    "address": "1522 Agency St, Danville, IA 52623",
+    "phone": "(319) 838-3534",
+    "website": "https://example.com/bug-free-pest-control-of-danville",
+    "rating": 4.7,
+    "review_count": 30,
+    "place_id": "sample_danville-iowa_pest-control_0",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Burlington Exterminating",
+    "address": "681 High St, Danville, IA 52623",
+    "phone": "(319) 359-2057",
+    "website": "https://example.com/burlington-exterminating",
+    "rating": 3.1,
+    "review_count": 59,
+    "place_id": "sample_danville-iowa_pest-control_1",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Iowa City Pest Pros",
+    "address": "2409 Oak Ave, Danville, IA 52623",
+    "phone": "(319) 276-9285",
+    "website": "https://example.com/iowa-city-pest-pros",
+    "rating": 3.7,
+    "review_count": 36,
+    "place_id": "sample_danville-iowa_pest-control_2",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Keokuk Termite & Pest of Danville",
+    "address": "1088 4th St, Danville, IA 52623",
+    "phone": "(319) 211-9972",
+    "website": "https://example.com/keokuk-termite-&-pest-of-danville",
+    "rating": 3.7,
+    "review_count": 65,
+    "place_id": "sample_danville-iowa_pest-control_3",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Fairfield Pest Management of Danville",
+    "address": "743 4th St, Danville, IA 52623",
+    "phone": "(319) 445-3055",
+    "website": "https://example.com/fairfield-pest-management-of-danville",
+    "rating": 3.2,
+    "review_count": 12,
+    "place_id": "sample_danville-iowa_pest-control_4",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  },
+  {
+    "name": "Mt. Pleasant Pest Control of Danville",
+    "address": "169 Spring St, Danville, IA 52623",
+    "phone": "(319) 855-9385",
+    "website": "https://example.com/mt.-pleasant-pest-control-of-danville",
+    "rating": 4.1,
+    "review_count": 26,
+    "place_id": "sample_danville-iowa_pest-control_5",
+    "types": [
+      "pest-control",
+      "service_business"
+    ],
+    "city": "Danville",
+    "city_slug": "danville-iowa",
+    "category_slug": "pest-control",
+    "category_name": "Pest Control",
+    "scraped_at": "2026-07-25T23:36:36.561195"
+  }
+]

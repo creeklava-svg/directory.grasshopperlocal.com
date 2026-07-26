@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Get Matched With a Local Service Pro — Free</title>
+<meta name="description" content="Need a plumber, HVAC company, electrician, or roofer? Tell us what you need and we'll connect you with a vetted local business. Free service.">
+<link rel="canonical" href="https://directory.grasshopperlocal.com/lead-capture.html">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<nav class="nav">
+  <a href="/" class="nav-brand">Grasshopper <span>Directory</span></a>
+  <div class="nav-links">
+    <a href="/">Home</a>
+    <a href="https://grasshopperlocal.com">Grasshopper Suite →</a>
+  </div>
+</nav>
+
+<section style="max-width:600px;margin:0 auto;padding:4rem 1.5rem;">
+  <h1 style="font-size:2rem;font-weight:700;margin-bottom:0.5rem;">Get Matched Free</h1>
+  <p style="color:var(--gray-500);margin-bottom:2rem;">Tell us what you need and we'll connect you with a vetted local professional. No obligation, no spam.</p>
+
+  <form action="https://directory.grasshopperlocal.com/api/lead" method="POST" style="display:flex;flex-direction:column;gap:1rem;">
+    <div>
+      <label style="font-weight:600;font-size:0.875rem;display:block;margin-bottom:0.375rem;color:var(--gray-700);">Your Name</label>
+      <input type="text" name="name" required placeholder="e.g. John Smith" style="width:100%;padding:0.75rem 1rem;border-radius:8px;border:1px solid var(--gray-300);font-size:1rem;font-family:var(--font);">
+    </div>
+
+    <div>
+      <label style="font-weight:600;font-size:0.875rem;display:block;margin-bottom:0.375rem;color:var(--gray-700);">Phone Number</label>
+      <input type="tel" name="phone" required placeholder="(319) 555-1234" style="width:100%;padding:0.75rem 1rem;border-radius:8px;border:1px solid var(--gray-300);font-size:1rem;font-family:var(--font);">
+    </div>
+
+    <div>
+      <label style="font-weight:600;font-size:0.875rem;display:block;margin-bottom:0.375rem;color:var(--gray-700);">Your City</label>
+      <select name="city" required style="width:100%;padding:0.75rem 1rem;border-radius:8px;border:1px solid var(--gray-300);font-size:1rem;font-family:var(--font);background:white;">
+        <option value="">Select your city</option>
+        <option value="iowa-city">Iowa City</option>
+        <option value="burlington">Burlington</option>
+        <option value="fort-madison">Fort Madison</option>
+        <option value="keokuk">Keokuk</option>
+        <option value="mt-pleasant">Mt. Pleasant</option>
+        <option value="fairfield">Fairfield</option>
+        <option value="washington">Washington</option>
+        <option value="west-burlington">West Burlington</option>
+        <option value="danville">Danville</option>
+      </select>
+    </div>
+
+    <div>
+      <label style="font-weight:600;font-size:0.875rem;display:block;margin-bottom:0.375rem;color:var(--gray-700);">Service Needed</label>
+      <select name="category" required style="width:100%;padding:0.75rem 1rem;border-radius:8px;border:1px solid var(--gray-300);font-size:1rem;font-family:var(--font);background:white;">
+        <option value="">What service do you need?</option>
+        <option value="plumber">Plumber</option>
+        <option value="hvac">HVAC / Heating & Cooling</option>
+        <option value="electrician">Electrician</option>
+        <option value="roofer">Roofer</option>
+        <option value="locksmith">Locksmith</option>
+        <option value="landscaper">Landscaper</option>
+        <option value="pest-control">Pest Control</option>
+      </select>
+    </div>
+
+    <div>
+      <label style="font-weight:600;font-size:0.875rem;display:block;margin-bottom:0.375rem;color:var(--gray-700);">Describe the Job (optional)</label>
+      <textarea name="description" placeholder="e.g. My kitchen sink is leaking and needs repair" style="width:100%;padding:0.75rem 1rem;border-radius:8px;border:1px solid var(--gray-300);font-size:1rem;font-family:var(--font);min-height:80px;"></textarea>
+    </div>
+
+    <button type="submit" style="background:var(--emerald);color:white;border:none;padding:1rem;border-radius:8px;font-weight:700;font-size:1.125rem;cursor:pointer;font-family:var(--font);">Get Matched — Free</button>
+  </form>
+
+  <p style="font-size:0.75rem;color:var(--gray-500);text-align:center;margin-top:1rem;">By submitting, you agree to be contacted by a local service professional. Your information will not be shared with third parties.</p>
+</section>
+
+<footer class="footer">
+  <p>© 2026 <a href="https://younggrasshopper.io">Young Grasshopper LLC</a> — <a href="https://grasshopperlocal.com">Grasshopper Suite</a></p>
+</footer>
+</body>
+</html>
