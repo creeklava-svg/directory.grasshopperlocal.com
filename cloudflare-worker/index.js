@@ -1,27 +1,39 @@
+// directory.grasshopperlocal.com — Lead Capture & Routing Worker
+// Deployed to iowa-directory-leads.workers.dev (Option B)
+// Secrets set via `wrangler secret put <NAME>`
+
 addEventListener('fetch', event => {
   event.respondWith(handleRequest(event.request))
 })
 
 async function handleRequest(request) {
   const url = new URL(request.url)
+  const method = request.method
 
-  // Handle lead form submissions
-  if (url.pathname === '/api/lead' && request.method === 'POST') {
+  // Handle lead form submissions (from the static site)
+  if (url.pathname === '/api/lead' && method === 'POST') {
     return handleLead(request)
   }
 
   // Handle claim listing submissions
-  if (url.pathname === '/api/claim' && request.method === 'POST') {
+  if (url.pathname === '/api/claim' && method === 'POST') {
     return handleClaim(request)
   }
 
+  // Stats endpoint — called by the weekly Telegram cron
+  if (url.pathname === '/api/stats' && method === 'GET') {
+    return handleStats(request)
+  }
+
   // CORS preflight
-  if (request.method === 'OPTIONS') {
+  if (method === 'OPTIONS') {
     return new Response(null, { headers: corsHeaders() })
   }
 
   return new Response('Not found', { status: 404 })
 }
+
+// ─── LEAD HANDLING ─────────────────────────────────────────
 
 async function handleLead(request) {
   const formData = await request.formData()
@@ -36,32 +48,33 @@ async function handleLead(request) {
   }
 
   if (!lead.name || !lead.phone || !lead.city || !lead.category) {
-    return redirectWithMessage('Please fill in all required fields.', '/lead-capture.html')
+    return redirectWithMessage('Please fill in all required fields.', 'https://directory.grasshopperlocal.com/lead-capture.html')
   }
 
   // Store lead in KV with 24-hour TTL
   await LEAD_KV.put(lead.id, JSON.stringify(lead), { expirationTtl: 86400 })
 
-  // Store in recent leads list
-  const recentStr = await LEAD_KV.get('recent_leads', 'json') || []
-  recentStr.unshift(lead.id)
-  if (recentStr.length > 100) recentStr.pop()
-  await LEAD_KV.put('recent_leads', JSON.stringify(recentStr))
+  // Track stats
+  await incrementStat('total_leads')
+  await incrementStat(`leads_${lead.city}_${lead.category}`)
 
   // Check for subscriber in this city+category
   const subKey = `subscriber:${lead.city}:${lead.category}`
   const subscriber = await LEAD_KV.get(subKey)
 
   if (subscriber) {
-    // Route lead to subscriber via SMS (Twilio)
+    // Route lead to subscriber via SMS (Telnyx)
     await sendSMS(subscriber, lead)
-    return redirectWithMessage('You\'ve been matched! A local pro will call you shortly.', '/')
+    await incrementStat('leads_routed')
+    return redirectWithMessage("You've been matched! A local pro will call you shortly.", 'https://directory.grasshopperlocal.com/')
   } else {
-    // Hold lead — send email to top businesses
-    await notifyBusinesses(lead)
-    return redirectWithMessage('Thanks! We\'re finding the right pro for you. Expect a call soon.', '/')
+    // No subscriber — log it for admin
+    await incrementStat('leads_unmatched')
+    return redirectWithMessage("Thanks! We're finding the right pro for you. Expect a call soon.", 'https://directory.grasshopperlocal.com/')
   }
 }
+
+// ─── CLAIM LISTING ─────────────────────────────────────────
 
 async function handleClaim(request) {
   const formData = await request.formData()
@@ -79,86 +92,103 @@ async function handleClaim(request) {
   }
 
   if (!claim.business_name || !claim.owner_name || !claim.email) {
-    return redirectWithMessage('Please fill in all required fields.', '/claim-listing.html')
+    return redirectWithMessage('Please fill in all required fields.', 'https://directory.grasshopperlocal.com/claim-listing.html')
   }
 
   // Store claim in KV
   await LEAD_KV.put(`claim:${claim.id}`, JSON.stringify(claim))
+  await incrementStat('total_claims')
 
-  // Add to pending claims list
-  const pendingStr = await LEAD_KV.get('pending_claims', 'json') || []
-  pendingStr.push(claim.id)
-  await LEAD_KV.put('pending_claims', JSON.stringify(pendingStr))
-
-  // Send notification email via SendGrid
-  await sendEmail({
-    to: 'help@grasshopperlocal.com',
-    subject: `New claim listing: ${claim.business_name}`,
-    text: `Business: ${claim.business_name}\nOwner: ${claim.owner_name}\nEmail: ${claim.email}\nPhone: ${claim.phone}\nPremium interest: ${claim.premium}\n\nClaim ID: ${claim.id}`
-  })
-
-  return redirectWithMessage('Your claim has been submitted! We\'ll review and get back to you within 24 hours.', '/')
+  return redirectWithMessage("Your claim has been submitted! We'll review and get back to you within 24 hours.", 'https://directory.grasshopperlocal.com/')
 }
 
-async function sendSMS(phone, lead) {
-  const TWILIO_ACCOUNT_SID = TWILIO_ACCOUNT_SID
-  const TWILIO_AUTH_TOKEN = TWILIO_AUTH_TOKEN
-  const TWILIO_PHONE = TWILIO_PHONE
+// ─── STATS ENDPOINT (called by weekly Telegram cron) ─────
 
-  if (!TWILIO_ACCOUNT_SID || !TWILIO_AUTH_TOKEN) return
+async function handleStats(request) {
+  // Simple token check so randos can't read stats
+  const auth = request.headers.get('Authorization')
+  const expected = typeof STATS_TOKEN !== 'undefined' && STATS_TOKEN ? `Bearer ${STATS_TOKEN}` : null
+  if (expected && auth !== expected) {
+    return new Response('Unauthorized', { status: 401, headers: corsHeaders() })
+  }
+
+  const totalLeads = parseInt(await LEAD_KV.get('stat:total_leads') || '0')
+  const leadsRouted = parseInt(await LEAD_KV.get('stat:leads_routed') || '0')
+  const leadsUnmatched = parseInt(await LEAD_KV.get('stat:leads_unmatched') || '0')
+  const totalClaims = parseInt(await LEAD_KV.get('stat:total_claims') || '0')
+  const leadsSold = parseInt(await LEAD_KV.get('stat:leads_sold') || '0')
+  const totalRevenue = parseInt(await LEAD_KV.get('stat:total_revenue') || '0')
+
+  return new Response(JSON.stringify({
+    totalLeads,
+    leadsRouted,
+    leadsUnmatched,
+    totalClaims,
+    leadsSold,
+    totalRevenue,
+    lastUpdated: new Date().toISOString()
+  }), {
+    headers: {
+      'Content-Type': 'application/json',
+      ...corsHeaders()
+    }
+  })
+}
+
+// ─── LEAD SOLD WEBHOOK (called by Stripe after payment) ──
+
+async function handleLeadSold(request) {
+  // Stripe webhook — payment confirmed
+  // Future: called by Stripe webhook endpoint
+  await incrementStat('leads_sold')
+  // Revenue tracking happens client-side for now
+  return new Response('OK')
+}
+
+// ─── TELNYX SMS ────────────────────────────────────────────
+
+async function sendSMS(toPhone, lead) {
+  const TELNYX_API_KEY = TELNYX_API_KEY
+  const TELNYX_PHONE = TELNYX_PHONE
+
+  if (!TELNYX_API_KEY || !TELNYX_PHONE) {
+    console.error('Telnyx not configured')
+    return
+  }
 
   const message = `NEW LEAD: ${lead.name} needs a ${lead.category} in ${lead.city}. Call ${lead.phone}. "${lead.description}"`
 
   try {
-    const url = `https://api.twilio.com/2010-04-01/Accounts/${TWILIO_ACCOUNT_SID}/Messages.json`
-    const auth = btoa(`${TWILIO_ACCOUNT_SID}:${TWILIO_AUTH_TOKEN}`)
-    await fetch(url, {
+    const response = await fetch('https://api.telnyx.com/v2/messages', {
       method: 'POST',
       headers: {
-        'Authorization': `Basic ${auth}`,
-        'Content-Type': 'application/x-www-form-urlencoded'
-      },
-      body: new URLSearchParams({
-        To: phone,
-        From: TWILIO_PHONE,
-        Body: message
-      })
-    })
-  } catch (e) {
-    console.error('SMS send failed:', e)
-  }
-}
-
-async function notifyBusinesses(lead) {
-  // In Phase 1, email admin with lead details
-  // Future: email top 3 businesses in that city+category
-  await sendEmail({
-    to: 'help@grasshopperlocal.com',
-    subject: `New lead available: ${lead.category} in ${lead.city}`,
-    text: `Name: ${lead.name}\nPhone: ${lead.phone}\nCity: ${lead.city}\nCategory: ${lead.category}\nDescription: ${lead.description}\n\nNo subscriber found for this area. Email top businesses to offer this lead.`
-  })
-}
-
-async function sendEmail({ to, subject, text }) {
-  const SENDGRID_API_KEY = SENDGRID_API_KEY
-  if (!SENDGRID_API_KEY) return
-
-  try {
-    await fetch('https://api.sendgrid.com/v3/mail/send', {
-      method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${SENDGRID_API_KEY}`,
+        'Authorization': `Bearer ${TELNYX_API_KEY}`,
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        personalizations: [{ to: [{ email: to }] }],
-        from: { email: 'help@grasshopperlocal.com', name: 'Grasshopper Directory' },
-        subject: subject,
-        content: [{ type: 'text/plain', value: text }]
+        from: TELNYX_PHONE,
+        to: toPhone,
+        text: message
       })
     })
+    if (!response.ok) {
+      const err = await response.text()
+      console.error('Telnyx send failed:', response.status, err)
+    }
   } catch (e) {
-    console.error('Email send failed:', e)
+    console.error('Telnyx send error:', e)
+  }
+}
+
+// ─── HELPERS ───────────────────────────────────────────────
+
+async function incrementStat(name) {
+  try {
+    const key = `stat:${name}`
+    const val = parseInt(await LEAD_KV.get(key) || '0')
+    await LEAD_KV.put(key, (val + 1).toString())
+  } catch (e) {
+    console.error('Stats increment failed:', e)
   }
 }
 
@@ -169,7 +199,7 @@ function redirectWithMessage(message, path) {
 function corsHeaders() {
   return {
     'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Methods': 'POST, OPTIONS',
-    'Access-Control-Allow-Headers': 'Content-Type'
+    'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+    'Access-Control-Allow-Headers': 'Content-Type, Authorization'
   }
 }
