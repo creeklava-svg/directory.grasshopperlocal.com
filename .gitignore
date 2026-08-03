@@ -1,0 +1,16 @@
+# Local-only files — NEVER commit (contain credentials)
+.token
+bw-setup.py
+check-syncthing.py
+email-hardware-stores.py
+send-realtor-email.py
+send-realtor-emails.py
+test-smtp.py
+realtor-contacts.txt
+realtor-emails.txt
+sent.log
+directory-flyer.png
+
+# Python cache
+__pycache__/
+*.pyc
